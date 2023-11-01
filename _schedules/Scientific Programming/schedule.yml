@@ -1,0 +1,146 @@
+Welcome:
+    Read the syllabus to get started: /syllabus
+    Install python: /python/en/installing
+
+L1 (Algorithms):
+    Level 1 (Algorithms):
+    Intro: /algorithms/en/intro2
+
+    Getting started:
+        Basic elements of Python [theory]: /python/en/basics
+        Basic elements of Python [practice]: /python/en/basics/practice
+        Check your water usage [assignment]: /algorithms/en/water
+
+    Algorithms:
+        Learn about algorithms [theory]: /python/en/algorithms
+        Practice with algorithms [practice]: /python/en/algorithms/practice
+
+    Loops:
+        Learn about for-loops [theory]: /python/en/loops/for
+        Practice with for-loops [practice]: /python/en/loops/for/practice
+        Learn about while-loops [theory]: /python/en/loops/while
+        Practice with while-loops [practice]: /python/en/loops/while/practice
+        Some typical uses of loops [theory]: /python/en/loops/practical-uses
+        Practice more with loops [practice]: /python/en/loops/practical-uses/practice
+
+    Pyramid:
+        Build a Mario Pyramid [assignment]: /algorithms/en/pyramid
+
+    Change:
+        Looking for trouble [theory]: /python/en/debugging-basics
+        Understand how to write good code [theory]: /python/en/style
+        Calculate change [assignment]: /algorithms/en/greedy
+        Review the previous assignment [peer review]: /peer
+
+    Plotting graphs:
+        Learn about lists [theory]: /python/en/lists
+        Practice with lists [practice]: /python/en/lists/practice
+        For loop strategies [theory]: /python/en/loops/element-vs-index
+        Learn how to use modules [theory]: /python/en/modules
+        Learn about plotting in Python [theory]: /python/en/plotting
+        Visualize data with plots [assignment]: /plot/en/
+
+    Submit:
+        Submit your solutions: /submit/algorithms
+
+L2 (Text Processing):
+    Level 2 (Text Processing):
+
+    Introduction: /text/en/intro2
+
+    Text statistics:
+        Learn about functions in Python [theory]: /python/en/functions
+        Practice with functions on paper [practice]: /python/en/functions-book
+        Practice with functions in Python [practice]: /python/en/functions/practice
+        Learn about strings [theory]: /python/en/strings
+        Calculate basic statistics for a text [assignment]: /text/en/statistics
+
+    Text cleanup:
+        Analyze text content word-by-word [assignment]: /text/en/words
+        Reformat a text neatly [assignment]: /text/en/reformatting
+
+    Sentiment analysis:
+        Learn how to read text from files [theory]: /python/en/file-io
+        Learn to analyse and process a data set [theory]: /python/en/files
+        Perform a sentiment analysis [assignment]: /text/en/sentiment
+        Present an overview of Twitter sentiment [assignment]: /text/en/tweets
+
+    Submit:
+        Submit your solutions: /submit/text
+
+L3 (Big Data):
+    Level 3 (Big Data):
+
+    Introduction: /bigdata/en/
+
+    Big data:
+        Learn about file I/O (repeated if you did Text) [theory]: /python/en/file-io
+        Learn to analyse and process a data set (repeated if you did Text) [theory]: /python/en/files
+        Process sensor data of a car ride [assignment]: /bigdata/en/car
+        Learn more about functions [theory]: /python/en/functions3
+        Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
+
+    Submit:
+        Submit your solutions: /submit/bigdata
+
+L4 (Monopoly):
+    Level 4 (Monopoly):
+    Animating in Python:
+        Learn how to create animated graphics [theory]: /animation/en/explanation
+        A spiraling dot [assignment]: /animation/en/dot
+        Explore the movements of a buzzed student [assignment]: /animation/en/student
+    Monopoly:
+        Introduction: /monopoly/en/
+        Learn about debugging simulations [theory]: /python/en/debugging
+        Main function [theory]: /python/en/main_function
+        Moving around the board [assignment]: /monopoly/en/moving-around
+        "Design: default arguments [theory]": /python/en/default-arguments
+        Using starting funds and buying stuff [assignment]: /monopoly/en/money
+        Add a player and restore the balance [assignment]: /monopoly/en/two-player
+    Submit:
+        Submit your solutions: /submit/monopoly
+
+L5 (Shakespeare):
+    Level 5 (Shakespeare):
+
+L6 (Survival):
+    Level 6 (Survival):
+    Introduction: /survival/
+    Function arguments:
+        Default arguments [theory]: /python/en/default-arguments
+        Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
+    Pandas:
+        Pandas [practice]: /pandas/pandas-sp
+    Seaborn:
+        Seaborn [practice]: /pandas/seaborn
+    Survival:
+        Mushrooms [assignment]: /pandas/survival-sp
+    Submit your solutions: /submit/survival
+
+Bonus (Populations):
+    Bonus (Populations):
+    Introduction: /populations-oo
+    Classes:
+        Learn about using classes in Python [theory]: /python/en/classes
+        Practice with classes [practice]: /objects/cards
+    Default arguments:
+        Default arguments [theory]: /python/en/default-arguments
+    Populations (part 1):
+        Introduction: /populations-oo/introduction
+        Phase 1: /populations-oo/phase1
+        Phase 2: /populations-oo/phase2
+        Phase 3: /populations-oo/phase3
+        Phase 4: /populations-oo/phase4
+        Phase 5: /populations-oo/phase5
+        Phase 6: /populations-oo/phase6
+        Phase 7: /populations-oo/phase7
+        Phase 8: /populations-oo/phase8
+        Phase 9: /populations-oo/phase9
+    Theory:
+        Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
+        Args and kwargs [theory]: /python/en/keyword-arguments/starstar
+        Sampling methods [theory]: /populations-oo/sampling
+    Populations (part 2):
+        Experiment: /populations-oo/experimenting
+        Visualize: /populations-oo/visualizing
+    Submit your solutions: /submit/populations
