@@ -1,0 +1,8 @@
+long_name: Scientific Programming
+short_name: SP
+language: en
+
+links:
+    '[brush] Style guide': /python/en/style
+    '[check] Checkpy use': /python/en/checkpy
+    '[hammer] Reference': /python/en/overview

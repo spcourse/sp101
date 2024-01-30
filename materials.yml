@@ -1,0 +1,58 @@
+#### SP1
+
+# M1
+algorithms:
+    remote: https://github.com/spcourse/algorithms.git
+    branch: main
+plot:
+    remote: https://github.com/spcourse/plot.git
+    branch: main
+
+# M2
+text:
+    remote: https://github.com/spcourse/text.git
+    branch: main
+
+# M3
+bigdata:
+    remote: https://github.com/spcourse/bigdata.git
+    branch: main
+animation:
+    remote: https://github.com/spcourse/animation.git
+    branch: main
+
+# M4
+monopoly:
+    remote: https://github.com/spcourse/monopoly.git
+    branch: main
+
+# M5
+shakespeare:
+    remote: https://github.com/spcourse/shakespeare.git
+    branch: main
+
+# M6
+survival:
+    remote: https://github.com/spcourse/survival.git
+    branch: main
+
+pandas:
+    remote: https://github.com/spcourse/pandas.git
+    branch: main
+
+# Bonus
+populations-oo:
+    remote: https://github.com/spcourse/populations-oo.git
+    branch: main
+
+python:
+    remote: https://github.com/spcourse/python.git
+    branch: main
+
+
+
+#### Depricated
+
+# statistics:
+#     remote: https://github.com/spcourse/statistics.git
+#     branch: main
