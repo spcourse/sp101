@@ -1,21 +1,26 @@
 Welcome:
-    Lees eerst de studiewijzer:
-      Studiewijzer: /syllabus
+
+    First read the syllabus:
+      Syllabus: /syllabus
+
     Install Python on Windows:
+      
       Intro: /python/en/installing/intro
       Step 1 install Miniconda: /python/en/installing/miniconda-win
       Step 2 install Pulsar: /python/en/installing/pulsar
       Step 3 command line interface: /python/en/installing/cli-win
       Step 4 install Conda environment: /python/en/installing/conda-env-sp
       Step 5 checkpy: /python/en/installing/checkpy
+
     Install Python on MacOS:
+
       Intro: /python/en/installing/intro
       Step 1 install Miniconda: /python/en/installing/miniconda-mac
       Step 2 install Pulsar: /python/en/installing/pulsar
       Step 3 command line interface: /python/en/installing/cli-mac
       Step 4 install Conda environment: /python/en/installing/conda-env-sp-mac
       Step 5 checkpy: /python/en/installing/checkpy
-      
+
 L1 (Algorithms):
     Level 1 (Algorithms):
     Intro: /algorithms/en/intro2
