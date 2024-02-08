@@ -1,0 +1,4 @@
+name: survival_(level6)
+files:
+    required:
+        - survival.ipynb

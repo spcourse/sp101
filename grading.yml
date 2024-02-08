@@ -1,0 +1,136 @@
+templates:
+    1: &check
+        hide_calculated: true
+        type: integer
+        subgrades:
+            completely_correct: boolean
+            mostly_correct: boolean
+            insufficient: boolean
+            checkpy: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: "[insufficient == -1 && 0 || -10, mostly_correct == -1 && 2 || -10, completely_correct == -1 && 3 || -10].max"
+
+    2: &check-man
+        hide_calculated: true
+        type: integer
+        subgrades:
+            completely_correct: boolean
+            mostly_correct: boolean
+            insufficient: boolean
+        calculation: "[insufficient == -1 && 0 || -10, mostly_correct == -1 && 2 || -10, completely_correct == -1 && 3 || -10].max"
+
+    3: &testt
+        type: pass
+        subgrades:
+            passed: boolean
+            checkpy: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: passed
+        hide_calculated: true
+
+    4: &graded
+        hide_calculated: true
+        type: float
+        subgrades:
+            code_quality: integer
+            correctness: integer
+        calculation: "1.0 + 9.0 * (3.0 * correctness + 2.0 * code_quality - 5.0) / 20.0"
+
+grades:
+    algorithms_(level1):
+        <<: *check
+    numbers_(level1):
+        <<: *check
+    text_(level2):
+        <<: *check
+    integrals_(level2):
+        <<: *check
+    bigdata_(level3):
+        <<: *check
+    movement_(bonus):
+        <<: *check
+
+    sp1-exam1:
+        <<: *testt
+    sp1-exam2:
+        <<: *testt
+    sp1-exam3:
+        <<: *testt
+    sp1-exam4:
+        <<: *testt
+
+    monopoly_(level4):
+        <<: *check
+    complexity_(level5):
+        <<: *check-man
+    survival_(level6): *check-man
+
+    sp2-exam1:
+        <<: *testt
+    sp2-exam2:
+        <<: *testt
+    sp2-exam3:
+        <<: *testt
+    sp2-exam4:
+        <<: *testt
+
+    populations: *graded
+    acquisition: *check-man
+    scraping-data: *check-man
+    transformation: *graded
+    databases: *check-man
+    project:
+        type: float
+        subgrades:
+            novelty: integer
+            quality: integer
+        calculation: "(1.0 + 9.0 * (novelty * 7.0 + quality * 3.0 - 10.0) / 40.0).round(1)"
+
+sp1_modules:
+    show_progress: true
+    submits:
+        algorithms_(level1): 1
+        numbers_(level1): 1
+        text_(level2): 1
+        integrals_(level2): 1
+        bigdata_(level3): 1
+        movement_(bonus): 1
+    required: true
+
+sp1_exams:
+    show_progress: true
+    submits:
+        sp1-exam1: 1
+        sp1-exam2: 1
+        sp1-exam3: 1
+        sp1-exam4: 1
+    required: true
+
+sp2_modules:
+    show_progress: true
+    submits:
+        monopoly_(level4): 1
+        complexity_(level5): 1
+        survival_(level6): 1
+    required: true
+
+sp2_exams:
+    show_progress: true
+    submits:
+        sp2-exam1: 1
+        sp2-exam2: 1
+        sp2-exam3: 1
+        sp2-exam4: 1
+    required: true
+
+data_modules:
+    show_progress: true
+    submits:
+        populations: 25
+        scraping-data: 1
+        transformation: 25
+        databases: 1
+        project: 50
+    required: true

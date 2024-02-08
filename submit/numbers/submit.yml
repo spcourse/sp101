@@ -1,0 +1,15 @@
+name: numbers_(level1)
+files:
+    required:
+        - whiz.py
+        - leap.py
+        - birthday.py
+        - prime.py
+        - listprimes.py
+        - goldbach.py
+        - plot.py
+
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: whiz leap birthday prime listprimes goldbach plot

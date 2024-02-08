@@ -1,0 +1,14 @@
+name: populations
+files:
+    required:
+        - phase1.py
+        - phase2.py
+        - phase3.py
+        - phase4.py
+        - phase5.py
+        - phase6.py
+        - phase7.py
+        - phase8.py
+        - phase9.py
+        - experiment.py
+        - visualize.ipynb

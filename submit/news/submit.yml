@@ -1,0 +1,4 @@
+name: news
+files:
+    required:
+        - news.zip

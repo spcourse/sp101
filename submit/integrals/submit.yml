@@ -1,0 +1,14 @@
+name: integrals_(level2)
+files:
+    required:
+        - roots.py
+        - riemann.py
+        - randommaths.py
+        - distance.py
+        - histogram.py
+        - montecarlo.py
+        - twitter.py
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: -m integrals
