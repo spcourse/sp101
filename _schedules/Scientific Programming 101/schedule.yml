@@ -125,7 +125,7 @@ L5 (Shakespeare):
     Introduction: /shakespeare/intro
     "Part 1: Computational complexity":
         Complexity [theory]: /python/en/efficiency
-        Complexity questions [assignment]: /complexity/questions1
+        Complexity questions [assignment]: /shakespeare/complexity-questions
     "Part 2: Data structures":
         Dictionaries [theory]: /python/en/dictionaries/use
         Dictionaries [practice]: /python/en/dictionaries/use/practice
