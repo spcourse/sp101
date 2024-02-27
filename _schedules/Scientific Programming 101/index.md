@@ -98,7 +98,7 @@ Here below is an overview of all modules.
 
 #### Week 1: February 5-11, 2024
 - **Subject:** Start Module 1 (Algorithms)
-- **Deadline:** No Deadline
+- **Deadline:** No deadline
 
 #### Week 2: February 12-18, 2024
 - **Subject:** Finish Module 1 + Start Module 2 (Text Processing)
@@ -111,27 +111,28 @@ Here below is an overview of all modules.
   - Wednesday, February 21, 2024: Deadline for Module 2
 
 #### Week 4: February 26 - March 3, 2024
-- **Subject:** Finish Module 3
-- **Deadline:**
-  - Friday, March 1, 2024: Deadline for Module 3
+- **Subject:** Module 3
+- **Deadline:** No deadline
 
 #### Week 5: March 4-10, 2024
-- **Subject:** Module 4 (Simulation - Monopoly)
+- **Subject:** Finish Module 3 + Start Module 4 (Simulation - Monopoly)
 - **Deadline:**
-  - Friday, March 8, 2024: Deadline for Module 4
+  - Monday, March 4, 2024: Deadline for Module 3
 
 #### Week 6: March 11-17, 2024
-- **Subject:** Module 5 (Text analysis - Shakespeare)
+- **Subject:** Module 4
+- **Deadline:**
+  - Sunday, March 17, 2024
 
 #### Week 7: March 18-24, 2024
-- **Subject:** Module 5 + Module 6 (Data Processing)
+- **Subject:** Start Module 5 (Shakespeare)
 - **Deadline:**
   - Wednesday, March 20, 2024: Deadline for Module 5
 
 #### Week 8: March 25-31, 2024
-- **Subject:** Module 6 + Exam
+- **Subject:** Module 5 + Exam
 - **Deadline:**
-  - Tuesday, March 26, 2024: Deadline for Module 6
+  - Tuesday, March 26, 2024: Deadline for Module 5
 
 ## Grading {#grading}
 
