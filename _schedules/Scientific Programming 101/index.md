@@ -89,9 +89,7 @@ Here below is an overview of all modules.
 
 **SHAKESPEARE**. What is an efficient algorithm? When you want to run large simulations, analyze large dataset, or any other computationally intensive task, writing efficient algorithms could in some cases mean the difference between a run time of a couple of minutes or of weeks. The theory of computational complexity gives you a way to reason about the efficiency of algorithms and make them run (much) faster.
 
-**SURVIVAL**. Python is very popular for analyzing and processing data. And Pandas is an important reason why. Pandas is the most used Python package for handling data. You will learn how to use this package to analyze and visualize geographical data.
-
-**(BONUS) POPULATIONS**. Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP).
+**(BONUS) SURVIVAL**. Python is very popular for analyzing and processing data. And Pandas is an important reason why. Pandas is the most used Python package for handling data. You will learn how to use this package to analyze and visualize geographical data.
 
 
 ### Deadlines {#level-deadlines}
