@@ -77,7 +77,8 @@ L2 (Text Processing):
 
     Text cleanup:
         Analyze text content word-by-word [assignment]: /text/en/words
-        Reformat a text neatly [assignment]: /text/en/reformatting
+        Reformat a text neatly [old assignment]: /text/en/reformatting
+        Right-align a text [new assignment]: /text/en/align
 
     Sentiment analysis:
         Learn how to read text from files [theory]: /python/en/file-io
