@@ -25,7 +25,7 @@ Run checkpy:
 ### Assignment 1: Twoish
 
 
-Write a function called `twoish(n)`. The functions approximates the number two by calculating the sequence $$1 + \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \frac{1}{16} + \ldots$$ repeated $$n$$ times. So we compute the sum for $$\frac{1}{x}$$ where $x$ starts at 1 and is doubled at every iteration.
+Write a function called `twoish(n)`. The functions approximates the number two by calculating the sequence $$1 + \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \frac{1}{16} + \ldots$$ repeated $$n$$ times. So we compute the sum for $$\frac{1}{x}$$ where $$x$$ starts at 1 and is doubled at every iteration.
 
 Example usage:
 
