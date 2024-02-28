@@ -1,0 +1,9 @@
+name: complexity_(level5)
+files:
+    required:
+        - datastructures.py
+        - unique-word-classifier.py
+        - tf-idf-classifier.py
+    optiional:
+        - generate-word-list.py
+        - generate-tf-idf.py

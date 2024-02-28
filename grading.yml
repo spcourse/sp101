@@ -64,5 +64,5 @@ sp_modules:
         bigdata_(level3): 1
         monopoly_(level4): 1
         shakspeare_(level5): 1
-        survival_(level6): 1
+        survival_(level6): 0
     required: true
