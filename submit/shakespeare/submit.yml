@@ -7,3 +7,7 @@ files:
     optiional:
         - generate-word-list.py
         - generate-tf-idf.py
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: datastructures

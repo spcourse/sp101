@@ -60,7 +60,7 @@ grades:
     monopoly_(level4):
         <<: *check
     shakspeare_(level5):
-        <<: *check-man
+        <<: *check
     survival_(level6): *check-man
 
     exam1:
