@@ -36,7 +36,7 @@ templates:
             checkpy: integer
         automatic:
             checkpy: correctness_score
-        calculation: checkpy >= 3
+        calculation: "checkpy >= 3"
         auto_publish: true
         hide_calculated: true
 
