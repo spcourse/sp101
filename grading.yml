@@ -30,6 +30,16 @@ templates:
         calculation: passed
         hide_calculated: true
 
+    5: &fully-automatic
+        type: pass
+        subgrades:
+            checkpy: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: checkpy >= 3
+        auto_publish: true
+        hide_calculated: true
+
     4: &graded
         hide_calculated: true
         type: float
@@ -45,6 +55,8 @@ grades:
         <<: *check
     bigdata_(level3):
         <<: *check
+    practice_exam_1:
+        <<: *fully-automatic
     monopoly_(level4):
         <<: *check
     shakspeare_(level5):
@@ -66,3 +78,10 @@ sp_modules:
         shakspeare_(level5): 1
         survival_(level6): 0
     required: true
+
+
+practice_exams:
+    show_progress: true
+    submits:
+        practice_exam_1: 1
+    required: false
