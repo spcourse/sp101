@@ -5,4 +5,4 @@ files:
 check:
     tool: checkpy
     repo: spcourse/exam-tests
-    args: practice_exam_1
+    args: sp101_exam_questions
