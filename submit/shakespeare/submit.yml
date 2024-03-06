@@ -1,4 +1,4 @@
-name: complexity_(level5)
+name: shakspeare_(level5)
 files:
     required:
         - datastructures.py
