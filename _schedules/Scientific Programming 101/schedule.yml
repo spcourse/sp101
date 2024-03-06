@@ -142,9 +142,9 @@ L5 (Shakespeare):
     "Part 3: Unique word classifier":
         Optimize [assignment]: /shakespeare/optimize-unique-words
         Extend [assignment]: /shakespeare/extend-unique-words
-    "Part 4: TF-IDF classifier":
+    "Part 4 (BONUS): TF-IDF classifier":
         Create a TF-IDF classifier [assignment]: /shakespeare/tf-idf-classifier
-    "Part 5: Generate shakspeare data (BONUS)":
+    "Part 5 (BONUS): Generate shakspeare data":
         Generate your own word lists: /shakespeare/generate-word-list
 
     Submit your solutions: /submit/shakespeare

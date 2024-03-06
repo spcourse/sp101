@@ -125,7 +125,7 @@ Here below is an overview of all modules.
 #### Week 7: March 18-24, 2024
 - **Subject:** Start Module 5 (Shakespeare)
 - **Deadline:**
-  - Wednesday, March 20, 2024: Deadline for Module 5
+  - Wednesday, March 20, 2024: Deadline for Module 4
 
 #### Week 8: March 25-31, 2024
 - **Subject:** Module 5 + Exam
