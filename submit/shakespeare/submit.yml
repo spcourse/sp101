@@ -1,10 +1,11 @@
 name: shakspeare_(level5)
 files:
     required:
+        - questions.txt
         - datastructures.py
         - unique-word-classifier.py
+    optional:
         - tf-idf-classifier.py
-    optiional:
         - generate-word-list.py
         - generate-tf-idf.py
 check:
