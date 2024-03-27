@@ -1,0 +1,8 @@
+name: exam1
+files:
+    required:
+        - sp101_exam1.py
+check:
+    tool: checkpy
+    repo: spcourse/exam-tests
+    args: sp101_exam1
