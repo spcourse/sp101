@@ -85,3 +85,10 @@ practice_exams:
     submits:
         practice_exam_1: 1
     required: false
+
+exams:
+    show_progress: true
+    submits:
+        exam1: 1
+        exam2: 1
+    required: true
