@@ -106,5 +106,5 @@ calculation:
         exam1: 0
     resit:
         # opdrachten: 0
-        cijfers: 1
+        sp_modules: 1
         exam2: 0
