@@ -70,6 +70,7 @@ grades:
 
 sp_modules:
     show_progress: true
+    minimum: 2.0
     submits:
         algorithms_(level1): 1
         text_(level2): 1
@@ -86,9 +87,24 @@ practice_exams:
         practice_exam_1: 1
     required: false
 
-exams:
+exam1:
     show_progress: true
     submits:
         exam1: 1
+    required: true
+
+exam2:
+    show_progress: true
+    submits:
         exam2: 1
     required: true
+
+calculation:
+    final:
+        # opdrachten: 0
+        sp_modules: 1
+        exam1: 0
+    resit:
+        # opdrachten: 0
+        cijfers: 1
+        exam2: 0
