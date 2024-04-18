@@ -70,7 +70,7 @@ grades:
 
 sp_modules:
     show_progress: true
-    minimum: 2.0
+    minimum: 1.99
     submits:
         algorithms_(level1): 1
         text_(level2): 1
