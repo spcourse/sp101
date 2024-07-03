@@ -1,8 +1,8 @@
-name: exam2
+name: exam3
 files:
     required:
-        - sp101_exam2.py
+        - sp101_exam3.py
 check:
     tool: checkpy
     repo: spcourse/exam-tests
-    args: sp101_exam2
+    args: sp101_exam3

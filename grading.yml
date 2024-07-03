@@ -67,6 +67,8 @@ grades:
         <<: *testt
     exam2:
         <<: *testt
+    exam3:
+        <<: *testt
 
 sp_modules:
     show_progress: true
@@ -98,6 +100,12 @@ exam2:
         exam2: 1
     required: true
 
+exam3:
+    show_progress: true
+    submits:
+        exam3: 1
+    required: true
+
 calculation:
     final:
         # opdrachten: 0
@@ -107,3 +115,7 @@ calculation:
         # opdrachten: 0
         sp_modules: 1
         exam2: 0
+    resit2:
+        # opdrachten: 0
+        sp_modules: 1
+        exam3: 0
