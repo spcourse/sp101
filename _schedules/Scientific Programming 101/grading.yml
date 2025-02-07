@@ -1,0 +1,94 @@
+templates:
+    1: &auto
+        type: float
+        subgrades:
+            points: integer
+        calculation: (points >= 9) && points || 0
+        automatic:
+            points: (correctness_score * 10).floor
+        auto_publish: true
+        hide_calculated: false
+        hide_subgrades: false
+
+    2: &check
+        type: boolean
+        subgrades:
+            passed: boolean
+        calculation: passed
+        auto_publish: false
+        hide_calculated: true
+        hide_subgrades: false
+
+    3: &testt
+        type: boolean
+        subgrades:
+            passed: boolean
+            checkpy: float
+        automatic:
+            checkpy: correctness_score * 10
+        calculation: passed
+        auto_publish: false
+        hide_calculated: true
+        hide_subgrades: false
+
+grades:
+    1_1-hello: *auto
+    1_2-input_and_calculating: *auto
+    1_3-if_then: *auto
+    1_4a-loops_1: *auto
+    1_5a-loops_2: *auto
+    1_6a-lists: *check
+
+    c-pyramid: *auto
+    c-conway: *auto
+
+    2_1-fun: *auto
+    2_2t-strings_1: *auto
+    2_3t-strings_2: *auto
+    2_4t-files: *auto
+    2_5t-plot: *auto
+    2_6t-style: *check
+
+    c-twitter: *auto
+    c-reformatting: *auto
+    c-plot_min_max: *auto
+
+    3_1-car: *auto
+    3_1-temperature: *auto
+
+    c-datastructures: *auto
+    c-shakespeare: *auto
+
+
+level_1_algorithms :
+    show_progress: true
+    submits:
+        1_1-hello: 10
+        1_2-input_and_calculating: 10
+        1_3-if_then: 10
+        1_4a-loops_1: 10
+        1_5a-loops_2: 10
+        1_6a-lists: 10
+        c-pyramid: 10
+        c-conway: 10
+
+level_2_text :
+    show_progress: true
+    submits:
+        2_1-fun: 10
+        2_2t-strings_1: 10
+        2_3t-strings_2: 10
+        2_4t-files: 10
+        2_5t-plot: 10
+        2_6t-style: 10
+        c-twitter: 10
+        c-reformatting: 10
+        c-plot_min_max: 10
+
+level_3_big_data:
+    show_progress: true
+    submits:
+        3_1-car: 10
+        3_1-temperature: 10
+        c-datastructures: 10
+        c-shakespeare: 10

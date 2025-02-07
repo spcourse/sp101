@@ -1,171 +1,141 @@
 Welcome:
-
-    First read the syllabus:
-      Syllabus: /syllabus
-
-    Install Python on Windows:
-
+    Read the syllabus to get started: /syllabus
+    Install python:
       Intro: /python/en/installing/intro
+    Install Python on Windows:
       Step 1 install Miniconda: /python/en/installing/miniconda-win
       Step 2 install Pulsar: /python/en/installing/pulsar
       Step 3 command line interface: /python/en/installing/cli-win
       Step 4 install Conda environment: /python/en/installing/conda-env-sp
-      Step 5 checkpy: /python/en/installing/checkpy
-
+      Step 5 checkpy: /python/en/installing/checkpy-sp
     Install Python on MacOS:
-
-      Intro: /python/en/installing/intro
       Step 1 install Miniconda: /python/en/installing/miniconda-mac
       Step 2 install Pulsar: /python/en/installing/pulsar
       Step 3 command line interface: /python/en/installing/cli-mac
       Step 4 install Conda environment: /python/en/installing/conda-env-sp-mac
-      Step 5 checkpy: /python/en/installing/checkpy
+      Step 5 checkpy: /python/en/installing/checkpy-sp
 
 L1 (Algorithms):
-    Level 1 (Algorithms):
-    Intro: /algorithms/en/intro2
+    1.1 Output:
+        Hello, world [pair]: /shorts/hello
+        Submit [submit]: /submit/mod1-1
+    1.2 Input and Calculations:
+        Basics [theory]: /python/en/basics
+        Number Whiz [pair]: /numbers/en/whiz
+        Divide [individual]: /shorts/oranges
+        Submit [submit]: /submit/mod1-2
+    1.3 If-then:
+        Algorithms [theory]: /python/en/algorithms
+        Less Than [pair]: /shorts/less_than
+        First Year [pair]: /shorts/first_year
+        First or Last Year [individual]: /shorts/first_or_last_year
+        Leap Year [individual]: /shorts/leap_year
+        Submit [submit]: /submit/mod1-3
+    1.4 Loops 1 (For):
+        For Loops [theory]: /python/en/loops/for
+        Between [pair]: /shorts/between
+        Buzz [pair]: /shorts/buzz
+        Sum [individual]: /shorts/sum
+        Leap Years [pair]: /shorts/leap_years
+        Newton [pair]: /shorts/newton
+        Repeat String [individual]: /shorts/repeat
+        Submit [submit]: /submit/mod1a-4
+    1.5 Loops 2 (While):
+        While Loops [theory]: /python/en/loops/while
+        Loops examples [theory]: /python/en/loops/practical-uses
+        Elmo [pair]: /shorts/elmo
+        Positive [individual]: /shorts/positive
+        Sum Until [pair]: /shorts/sum_until
+        Max Until [pair]: /shorts/max_until
+        Calculate Change [individual]: /algorithms/en/greedy
+        Submit [submit]: /submit/mod1a-5
+    1.6 Lists:
+        Debugging [theory]: /python/en/debugging-basics
+        Code in Style [theory]: /python/en/style
+        Lists [theory]: /python/en/lists
+        Positive List [pair]: /shorts/positive_list
+        Odd [pair]: /shorts/odd
+        Average [pair]: /shorts/average
+        Squares [individual]: /shorts/squares
+        Collect Change [individual & discuss]: /algorithms/en/collect
+        Submit [submit]: /submit/mod1a-6
+    1.7 Challenges (not required to pass, but recommended to do at least one):
+        Mario Pyramid [pair]: /algorithms/en/pyramid
+        Submit Pyramid: /submit/c-pyramid
+        Conway’s Game of Life [pair] *TODO*: /algorithms/en/conway
+        Submit Conway *TODO*: submit/c-conway
 
-    Getting started:
-        Basic elements of Python [theory]: /python/en/basics
-        Basic elements of Python [practice]: /python/en/basics/practice
-        Check your water usage [assignment]: /algorithms/en/water
-
-    Algorithms:
-        Learn about algorithms [theory]: /python/en/algorithms
-        Practice with algorithms [practice]: /python/en/algorithms/practice
-
-    Loops:
-        Learn about for-loops [theory]: /python/en/loops/for
-        Practice with for-loops [practice]: /python/en/loops/for/practice
-        Learn about while-loops [theory]: /python/en/loops/while
-        Practice with while-loops [practice]: /python/en/loops/while/practice
-        Some typical uses of loops [theory]: /python/en/loops/practical-uses
-        Practice more with loops [practice]: /python/en/loops/practical-uses/practice
-
-    Pyramid:
-        Build a Mario Pyramid [assignment]: /algorithms/en/pyramid
-
-    Change:
-        Looking for trouble [theory]: /python/en/debugging-basics
-        Understand how to write good code [theory]: /python/en/style
-        Calculate change [assignment]: /algorithms/en/greedy
-        Review the previous assignment [peer review]: /peer
-
-    Plotting graphs:
-        Learn about lists [theory]: /python/en/lists
-        Practice with lists [practice]: /python/en/lists/practice
-        For loop strategies [theory]: /python/en/loops/element-vs-index
-        For-loops with indexing [theory]: /python/en/loops/element-vs-index
-        Learn how to use modules [theory]: /python/en/modules
-        Learn about plotting in Python [theory]: /python/en/plotting
-        Visualize data with plots [assignment]: /plot/en/
-
-    Submit:
-        Submit your solutions: /submit/algorithms
 
 L2 (Text Processing):
-    Level 2 (Text Processing):
+    2.1 Functions:
+        Functions [theory]: /python/en/functions
+        Squared [pair]: /shorts/squared
+        Min [pair]: /shorts/min
+        Fun Sum [individual]: /shorts/fun_sum
+        Max [individual]: /shorts/max
+        Max Index [individual]: /shorts/max_index
+        Arange [individual]: /shorts/arange
+        Submit [submit]: /submit/mod2-1
+    2.2 Strings 1:
+        Strings [theory]: /python/en/strings
+        Vowels [pair]: /shorts/vowels
+        Vowel Words [pair]: /shorts/vowel_words
+        Text Statistics [individual]: /text/en/statistics
+        Submit [submit]: /submit/mod2t-2
+    2.3 Strings 2:
+        Longest Word [pair]: /shorts/longest_word
+        Word-by-Word [pair]: /text/en/words
+        Resplit [pair]: /shorts/resplit
+        Snake Case [individual]: /shorts/snake_case
+        Align [individual]: /text/en/align
+        Submit [submit]: /submit/mod2t-3
+    2.4 Files:
+        Read Files [theory]: /python/en/file-io
+        Practice with files [practice]: /python/en/files
+        Alice [pair]: /shorts/alice
+        Sentiment [individual]: /text/en/sentiment
+        Submit [submit]: /submit/mod2t-4
+    2.5 Plot:
+        Import [theory]: /python/en/modules
+        Plot [theory]: /python/en/plotting
+        Plot [pair]: /plot/en/plot1
+        Plot Min [individual]: /plot/en/plot2
+        Submit [submit]: /submit/mod2t-5
+    2.6 Style:
+        Style [individual & discuss]: /style/text
+        Submit [submit]: /submit/mod2t-6
+    2.7 Challenges (not required to pass, but recommended to do at least one):
+        Twitter [pair]: /text/en/tweets
+        Submit Twitter (21 jan): /submit/c-twitter
+        Reformat [pair]: /text/en/reformatting
+        Submit Reformat (21 jan): /submit/c-reformatting
+        Plot Min Max [pair]: /plot/en/plot_mm
+        Submit Plot Min Max (21 jan): /submit/c-plot-min-max
 
-    Introduction: /text/en/intro2
-
-    Text statistics:
-        Learn about functions in Python [theory]: /python/en/functions
-        Practice with functions on paper [practice]: /python/en/functions-book
-        Practice with functions in Python [practice]: /python/en/functions/practice
-        Learn about strings [theory]: /python/en/strings
-        Calculate basic statistics for a text [assignment]: /text/en/statistics
-
-    Text cleanup:
-        Analyze text content word-by-word [assignment]: /text/en/words
-        Reformat a text neatly [old assignment]: /text/en/reformatting
-        Right-align a text [new assignment]: /text/en/align
-
-    Sentiment analysis:
-        Learn how to read text from files [theory]: /python/en/file-io
-        Learn to analyse and process a data set [theory]: /python/en/files
-        Perform a sentiment analysis [assignment]: /text/en/sentiment
-        Present an overview of Twitter sentiment [assignment]: /text/en/tweets
-
-    Submit:
-        Submit your solutions: /submit/text
 
 L3 (Big Data):
-    Level 3 (Big Data):
-
-    Introduction: /bigdata/en/
-
-    Big data:
-        Learn about file I/O (repeated if you did Text) [theory]: /python/en/file-io
-        Learn to analyse and process a data set (repeated if you did Text) [theory]: /python/en/files
-        Process sensor data of a car ride [assignment]: /bigdata/en/car
-        Learn more about functions [theory]: /python/en/functions3
-        Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
-
-    Submit:
-        Submit your solutions: /submit/bigdata
-
-Exam Questions:
-    Exam questions: /exams/practice-exam
-
-L4 (Monopoly):
-    Level 4 (Monopoly):
-    Animating in Python:
-        Learn how to create animated graphics [theory]: /animation/en/explanation
-        A spiraling dot [assignment]: /animation/en/dot
-        Explore the movements of a buzzed student [assignment]: /animation/en/student
-    Monopoly:
-        Introduction: /monopoly/en/
-        Learn about debugging simulations [theory]: /python/en/debugging
-        Main function [theory]: /python/en/main_function
-        Moving around the board [assignment]: /monopoly/en/moving-around
-        "Design: default arguments [theory]": /python/en/default-arguments
-        Using starting funds and buying stuff [assignment]: /monopoly/en/money
-        Add a player and restore the balance [assignment]: /monopoly/en/two-player
-    Submit:
-        Submit your solutions: /submit/monopoly
-
-L5 (Shakespeare):
-    Level 5 (Shakespeare):
-    Introduction: /shakespeare/intro
-    "Part 1: Computational complexity":
-        Complexity [theory]: /python/en/efficiency
-        Complexity questions [assignment]: /shakespeare/complexity-questions
-    "Part 2: Data structures":
+    3.1 Car:
+        Read Files (repeated) [theory]: /python/en/file-io
+        Car Ride [pair]: /bigdata/en/car
+        Submit [submit]: /submit/mod3-1
+    3.2 Temperature:
+        More about Functions [theory]: /python/en/functions3
+        Temperature [individual & discuss]: /bigdata/en/temperatures
+        Submit [submit]: /submit/mod3-2
+    3.3.1 Challenge 1 (not required to pass, sneak peak of SP2):
         Dictionaries [theory]: /python/en/dictionaries/use
-        Dictionaries [practice]: /python/en/dictionaries/use/practice
-        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
-        Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
-        Sets [practice]: /python/en/sets/practice
-        Use dictionaries and sets [assignment]: /shakespeare/datastructures
-    "Part 3: Unique word classifier":
-        Optimize [assignment]: /shakespeare/optimize-unique-words
-        Extend [assignment]: /shakespeare/extend-unique-words
-    "Part 4 (BONUS): TF-IDF classifier":
-        Create a TF-IDF classifier [assignment]: /shakespeare/tf-idf-classifier
-    "Part 5 (BONUS): Generate shakspeare data":
-        Generate your own word lists: /shakespeare/generate-word-list
+        Datastructures [pair]: /shakespeare/c-datastructures
+        Submit [submit]: /submit/datastructures
+    3.3.2 Challenge 2 (not required to pass, sneak peak of SP2):
+        Shakespeare [pair]: /shakespeare/shakespeare-short
+        Submit [submit]: /submit/c-shakespeare
 
-    Submit your solutions: /submit/shakespeare
+L4 (Monopoly):
+
+L5 (Shakespeare):
 
 Bonus (Survival):
-    Level 6 (Survival):
-    Introduction: /survival/
-    Function arguments:
-        Default arguments [theory]: /python/en/default-arguments
-        Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
-    Pandas:
-        Pandas [practice]: /pandas/pandas-sp
-    Seaborn:
-        Seaborn [practice]: /pandas/seaborn
-    Survival:
-        Mushrooms [assignment]: /pandas/survival-sp
-    Submit your solutions: /submit/survival
-
-Practice exam:
-    Mid-term practice questions: /exams/practice-questions
-    Practice exam: /exams/practice-exam
 
 Exam:
-    Exam: /exam

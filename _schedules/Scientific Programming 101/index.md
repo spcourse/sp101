@@ -1,6 +1,22 @@
 # Scientific Programming 101
 
-**Spring 2023/2024**
+**Spring 2024/2025**
+
+## Team
+
+<table>
+  <tr><td width = "25%"><img src = "https://github.com/spcourse/sp101/raw/2025/team/loes.jpg" style="max-width:90px"><br>Loes </td><td>
+  </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/sp101/raw/2025/team/marit.jpg" style="max-width:90px" width = "150"><br>Marit </td><td>
+  </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/sp101/raw/2025/team/steph.jpg" style="max-width:90px" width = "150"><br>Steph </td><td>
+  </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/puck.jpg" style="max-width:90px" width = "150"><br>Puck </td><td> Puck has a Bachelor’s degree in Physics and then completed a Master’s degree in Mathematics at Utrecht University. She is currently a Junior Lecturer for the Scientific Programming minor at the University of Amsterdam. Puck loves puzzles and tough questions. If you have a fun challenge to think about, she’ll happily join in—even if it’s not related to programming.
+  </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon </td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
+</table>
+
+Contact: <scientific@proglab.nl>
 
 ## General info {#general}
 
@@ -49,12 +65,6 @@ Scientific Programming 101 is a beginner's course. We will teach you the basics 
 
 All the reading and video material is available on this website. You do not need to purchase any books or software. Every module consists of short explanations (written and in the form of videos) and assignments. _You do need to bring your own laptop._
 
-### Staff {#staff}
-
-Simon Pauw
-
-Contact: <scientific@proglab.nl>
-
 ### Getting started {#start}
 
 Your entry to the course is the sidebar, where you can leaf through all modules (levels) that you have to complete. To get started:
@@ -65,15 +75,15 @@ Your entry to the course is the sidebar, where you can leaf through all modules 
 
 ### Contact hours
 
-Tutorials and lectures
+Tutorials and a lecture
 
 ### Programming modules {#programming-modules}
 
 You're going to learn programming through a number of programming modules. Each module consist of:
 
 - Theory: Explanations both written and in the form of video's.
-- Practice: Exercises to test your understanding of the theory.
-- Assignments: Bigger programming problems that require combining multiple programming concepts.
+- Pair: Assignments that you can do together with other students.
+- Individual: Assignments that you should do individually (but with our help, of course).
 
 The modules are grouped into levels, you have to make one module per level. For some levels you have the choice between two different modules. When there is such a choice, you will learn the same programming concepts, but often in different thematic context (i.e. different scientific fields).
 
@@ -91,45 +101,26 @@ Here below is an overview of all modules.
 
 **(BONUS) SURVIVAL**. Python is very popular for analyzing and processing data. And Pandas is an important reason why. Pandas is the most used Python package for handling data. You will learn how to use this package to analyze and visualize geographical data.
 
-
 ### Deadlines {#level-deadlines}
 
-#### Week 1: February 5-11, 2024
-- **Subject:** Start Module 1 (Algorithms)
-- **Deadline:** No deadline
 
-#### Week 2: February 12-18, 2024
-- **Subject:** Finish Module 1 + Start Module 2 (Text Processing)
-- **Deadline:**
-  - Tuesday, February 13, 2024: Deadline for Module 1
-
-#### Week 3: February 19-25, 2024
-- **Subject:** Finish Module 2 + Start Module 3 (Big Data)
-- **Deadline:**
-  - Wednesday, February 21, 2024: Deadline for Module 2
-
-#### Week 4: February 26 - March 3, 2024
-- **Subject:** Module 3
-- **Deadline:** No deadline
-
-#### Week 5: March 4-10, 2024
-- **Subject:** Finish Module 3 + Start Module 4 (Simulation - Monopoly)
-- **Deadline:**
-  - Monday, March 4, 2024: Deadline for Module 3
-
-#### Week 6: March 11-17, 2024
-- **Subject:** Module 4
-- **Deadline:**
-  - Sunday, March 17, 2024: Deadline for Module 4
-
-#### Week 7: March 18-24, 2024
-- **Subject:** Start Module 5 (Shakespeare)
-- **Deadline:** No deadline
-
-#### Week 8: March 25-31, 2024
-- **Subject:** Module 5 + Exam
-- **Deadline:**
-  - Tuesday, March 26, 2024: Deadline for Module 5
+|---------|-----------------|--------------|----------------------|
+|         |                 | Mon          | Wed                  |
+|---------|-----------------|--------------|----------------------|
+| Week 8  | Feb 17 - 19     | 1.1 - 1.3    | 1.4 - 1.5            |
+| Week 9  | Feb 24 - 26     | 1.5 - 1.6    | 1.7                  |
+|||||
+| Week 11 | Mar 10 - 12     | 2.1 - 2.2    | 2.3 - 2.4            |
+| Week 12 | Mar 17 - 19     | 2.5 - 2.6    | 2.7                  |
+|||||
+| Week 14 | Mar 10 - 12     | 3.1          | no deadline          |
+| Week 15 | Mar 31 - Apr 2  | 3.2, 3.3     | 4.1 - 4.2            |
+| Week 16 | Apr 14 - 16     | 4.3          | 4.4                  |
+|||||
+| Week 19 | May 5 - 7       | no class     | 5.1 - 5.2            |
+| Week 20 | May 12 - 14     | 5.3          | 5.4                  |
+| Week 21 | May 19 - 21     | Exam!        | no class             |
+|---------|-----------------|--------------|----------------------|
 
 ## Grading {#grading}
 
@@ -140,16 +131,9 @@ The course's final result will be "pass" or "fail", which means that no grades a
 - passing the final exam
 
 ### Coursework (modules)
-For each module you will one of the following grades:
+For each (sub)module you will receive a **pass/fail**
 
-* completely correct
-* mostly correct
-* insufficient
-
-In principle we expect that everything you hand in is *completely correct*. However, it happens easily to miss a detail, so to relax the requirements a bit:
-
-- All your modules need to be at least *mostly correct*.
-- At least one module needs to be *completely correct*
+In principle we expect that every submodule you hand in is *completely correct*. However, it happens easily to miss a detail, so to relax the requirements a bit: For each submodule you need at least 9 out of 10 points for it to be correct.
 
 You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
 

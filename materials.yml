@@ -1,4 +1,12 @@
-#### SP1
+#### General
+
+python:
+    remote: https://github.com/spcourse/python.git
+    branch: main
+
+shorts:
+    remote: https://github.com/spcourse/shorts.git
+    branch: main
 
 # M1
 algorithms:
@@ -44,15 +52,3 @@ pandas:
 populations-oo:
     remote: https://github.com/spcourse/populations-oo.git
     branch: main
-
-python:
-    remote: https://github.com/spcourse/python.git
-    branch: main
-
-
-
-#### Depricated
-
-# statistics:
-#     remote: https://github.com/spcourse/statistics.git
-#     branch: main
