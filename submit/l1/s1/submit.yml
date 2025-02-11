@@ -1,0 +1,8 @@
+name: 1_1-hello
+files:
+    required:
+        - hello.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: hello

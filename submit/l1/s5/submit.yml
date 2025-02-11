@@ -1,0 +1,12 @@
+name: 1_5a-loops_2
+files:
+    required:
+        - elmo.py
+        - positive.py
+        - sum_until.py
+        - max_until.py
+        - greedy.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: elmo positive sum_until birthday max_until greedy

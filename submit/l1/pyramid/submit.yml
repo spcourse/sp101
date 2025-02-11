@@ -1,0 +1,9 @@
+name: c-pyramid
+files:
+    required:
+        - pyramid.py
+
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: pyramid
