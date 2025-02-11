@@ -58,12 +58,12 @@ L1 (Algorithms):
         Average [pair]: /shorts/average
         Squares [individual]: /shorts/squares
         Collect Change [individual & discuss]: /algorithms/en/collect
-        Submit [submit]: /submit/l1
+        Submit [submit]: /submit/l1/l6
     1.7 Challenges (not required to pass, but recommended to do at least one):
         Mario Pyramid [pair]: /algorithms/en/pyramid
         Submit Pyramid: /submit/l1/pyramid
-        Conway’s Game of Life [pair] *TODO*: /algorithms/en/conway
-        Submit Conway *TODO*: submit/c-conway
+        # Conway’s Game of Life [pair] *TODO*: /algorithms/en/conway
+        # Submit Conway *TODO*: submit/c-conway
 
 
 L2 (Text Processing):
