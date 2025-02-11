@@ -113,8 +113,8 @@ Here below is an overview of all modules.
 | Week 11 | Mar 10 - 12     | 2.1 - 2.2    | 2.3 - 2.4            |
 | Week 12 | Mar 17 - 19     | 2.5 - 2.6    | 2.7                  |
 |||||
-| Week 14 | Mar 10 - 12     | 3.1          | no deadline          |
-| Week 15 | Mar 31 - Apr 2  | 3.2, 3.3     | 4.1 - 4.2            |
+| Week 14 | Mar 31 - Apr 2    | 3.1          | no deadline          |
+| Week 15 | Apr 7 - 9       | 3.2, 3.3     | 4.1 - 4.2            |
 | Week 16 | Apr 14 - 16     | 4.3          | 4.4                  |
 |||||
 | Week 19 | May 5 - 7       | no class     | 5.1 - 5.2            |
