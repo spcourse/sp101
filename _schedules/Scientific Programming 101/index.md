@@ -1,16 +1,16 @@
 # Scientific Programming 101
 
-**Spring 2024/2025**
+**2024/2025**
 
 ## Team
 
 <table>
-  <tr><td width = "25%"><img src = "https://github.com/spcourse/sp101/raw/2025/team/loes.jpg" style="max-width:90px"><br>Loes </td><td>
+  <tr><td width = "25%"><img src = "https://github.com/spcourse/sp101/raw/2025/team/loes.jpg" style="max-width:90px"><br>Loes </td><td>Loes did a Liberal Arts Bachelor’s with a major in Mathematics at University College Utrecht and is currently in the second year of the Master’s Computational Science. She enjoys making cool projects on her computer and is very excited to support you in doing the same coming semester!
   </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/sp101/raw/2025/team/marit.jpg" style="max-width:90px" width = "150"><br>Marit </td><td>
+  <tr><td><img src = "https://github.com/spcourse/sp101/raw/2025/team/marit.jpg" style="max-width:90px" width = "150"><br>Marit </td><td> Marit is a fourth-year Beta Gamma student majoring in Artificial Intelligence. She's currently preparing for a master's in Information Studies. Outside of studying, she loves making her own clothes, reading, and training for her first running race.
   </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/sp101/raw/2025/team/steph.jpg" style="max-width:90px" width = "150"><br>Steph </td><td>
-  </td></tr>
+  <!-- <tr><td><img src = "https://github.com/spcourse/sp101/raw/2025/team/steph.jpg" style="max-width:90px" width = "150"><br>Steph </td><td>
+  </td></tr> -->
   <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/puck.jpg" style="max-width:90px" width = "150"><br>Puck </td><td> Puck has a Bachelor’s degree in Physics and then completed a Master’s degree in Mathematics at Utrecht University. She is currently a Junior Lecturer for the Scientific Programming minor at the University of Amsterdam. Puck loves puzzles and tough questions. If you have a fun challenge to think about, she’ll happily join in—even if it’s not related to programming.
   </td></tr>
   <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon </td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
@@ -113,7 +113,7 @@ Here below is an overview of all modules.
 | Week 11 | Mar 10 - 12     | 2.1 - 2.2    | 2.3 - 2.4            |
 | Week 12 | Mar 17 - 19     | 2.5 - 2.6    | 2.7                  |
 |||||
-| Week 14 | Mar 31 - Apr 2    | 3.1          | no deadline          |
+| Week 14 | Mar 31 - Apr 2  | 3.1          | no deadline          |
 | Week 15 | Apr 7 - 9       | 3.2, 3.3     | 4.1 - 4.2            |
 | Week 16 | Apr 14 - 16     | 4.3          | 4.4                  |
 |||||
