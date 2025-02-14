@@ -73,9 +73,23 @@ Your entry to the course is the sidebar, where you can leaf through all modules 
 - Install Python.
 - Start with Level 1, Algorithms.
 
-### Contact hours
+### Learning activities
+
+| Hours | Hoorcollege |
+|-------|-------------|
+| 2     | Lecture     |
+| 2     | Exam        |
+| 32    | Seminars    |
+| 132   | Self-study  |
+| 168   | Total       |
+
 
 Tutorials and a lecture
+
+### Attendance
+Additional requirements for this course:
+
+Students may be absent 4 out of 16 seminars (werkcollege)
 
 ### Programming modules {#programming-modules}
 
