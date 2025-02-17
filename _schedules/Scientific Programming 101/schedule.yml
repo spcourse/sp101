@@ -16,22 +16,22 @@ Welcome:
       Step 5 checkpy: /python/en/installing/checkpy-sp
 
 L1 (Algorithms):
-    1.1 Output (dl 19/02/25 23:59):
+    1.1 Output (dl 19/02/25):
         Hello, world [pair]: /shorts/hello
         Submit [submit]: /submit/l1/s1
-    1.2 Input and Calculations (dl 19/02/25 23:59):
+    1.2 Input and Calculations (dl 19/02/25):
         Basics [theory]: /python/en/basics
         Number Whiz [pair]: /numbers/en/whiz
         Divide [individual]: /shorts/oranges
         Submit [submit]: /submit/l1/s2
-    1.3 If-then (dl 19/02/25 23:59):
+    1.3 If-then (dl 19/02/25):
         Algorithms [theory]: /python/en/algorithms
         Less Than [pair]: /shorts/less_than
         First Year [pair]: /shorts/first_year
         First or Last Year [individual]: /shorts/first_or_last_year
         Leap Year [individual]: /shorts/leap_year
         Submit [submit]: /submit/l1/s3
-    1.4 Loops 1 (For) (dl 24/02/25 23:59):
+    1.4 Loops 1 (For) (dl 24/02/25):
         For Loops [theory]: /python/en/loops/for
         Between [pair]: /shorts/between
         Buzz [pair]: /shorts/buzz
@@ -40,7 +40,7 @@ L1 (Algorithms):
         Newton [pair]: /shorts/newton
         Repeat String [individual]: /shorts/repeat
         Submit [submit]: /submit/l1/s4
-    1.5 Loops 2 (While) (dl 24/02/25 23:59):
+    1.5 Loops 2 (While) (dl 24/02/25):
         While Loops [theory]: /python/en/loops/while
         Loops examples [theory]: /python/en/loops/practical-uses
         Elmo [pair]: /shorts/elmo
@@ -49,7 +49,7 @@ L1 (Algorithms):
         Max Until [pair]: /shorts/max_until
         Calculate Change [individual]: /algorithms/en/greedy
         Submit [submit]: /submit/l1/s5
-    1.6 Lists (dl 26/02/25 23:59):
+    1.6 Lists (dl 26/02/25):
         Debugging [theory]: /python/en/debugging-basics
         Code in Style [theory]: /python/en/style
         Lists [theory]: /python/en/lists
@@ -59,7 +59,7 @@ L1 (Algorithms):
         Squares [individual]: /shorts/squares
         Collect Change [individual & discuss]: /algorithms/en/collect
         Submit [submit]: /submit/l1/s6
-    1.7 Challenges (dl 26/02/25 23:59):
+    1.7 Challenges (dl 26/02/25):
         Not required to pass, but recommended to do at least one:
         Mario Pyramid [pair]: /algorithms/en/pyramid
         Submit Pyramid: /submit/l1/pyramid
