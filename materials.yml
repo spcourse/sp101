@@ -12,6 +12,9 @@ shorts:
 algorithms:
     remote: https://github.com/spcourse/algorithms.git
     branch: main
+numbers:
+    remote: https://github.com/spcourse/numbers.git
+    branch: main
 plot:
     remote: https://github.com/spcourse/plot.git
     branch: main

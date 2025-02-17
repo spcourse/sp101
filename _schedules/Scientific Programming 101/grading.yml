@@ -10,6 +10,18 @@ templates:
         hide_calculated: false
         hide_subgrades: false
 
+    1: &check-auto
+        type: float
+        subgrades:
+            points: integer
+            passed: boolean
+        calculation: passed && points || 0
+        automatic:
+            points: (correctness_score * 10).floor
+        auto_publish: true
+        hide_calculated: false
+        hide_subgrades: false
+
     2: &check
         type: boolean
         subgrades:
@@ -48,7 +60,7 @@ grades:
       <<: *auto
       deadline: 24/02/25 23:59
     1_6a-lists:
-      <<: *auto
+      <<: *check-auto
       deadline: 26/02/25 23:59
     c-pyramid:
       <<: *auto
@@ -62,7 +74,7 @@ grades:
     2_3t-strings_2: *auto
     2_4t-files: *auto
     2_5t-plot: *auto
-    2_6t-style: *check
+    2_6t-style: *check-auto
 
     c-twitter: *auto
     c-reformatting: *auto
