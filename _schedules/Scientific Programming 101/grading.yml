@@ -32,15 +32,30 @@ templates:
         hide_subgrades: false
 
 grades:
-    1_1-hello: *auto
-    1_2-input_and_calculating: *auto
-    1_3-if_then: *auto
-    1_4a-loops_1: *auto
-    1_5a-loops_2: *auto
-    1_6a-lists: *check
-
-    c-pyramid: *auto
-    c-conway: *auto
+    1_1-hello:
+      <<: *auto
+      deadline: 19/02/25 23:59
+    1_2-input_and_calculating:
+      <<: *auto
+      deadline: 19/02/25 23:59
+    1_3-if_then:
+      <<: *auto
+      deadline: 19/02/25 23:59
+    1_4a-loops_1:
+      <<: *auto
+      deadline: 24/02/25 23:59
+    1_5a-loops_2:
+      <<: *auto
+      deadline: 24/02/25 23:59
+    1_6a-lists:
+      <<: *auto
+      deadline: 26/02/25 23:59
+    c-pyramid:
+      <<: *auto
+      deadline: 26/02/25 23:59
+    c-conway:
+      <<: *auto
+      deadline: 26/02/25 23:59
 
     2_1-fun: *auto
     2_2t-strings_1: *auto
