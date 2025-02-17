@@ -117,6 +117,7 @@ Here below is an overview of all modules.
 
 ### Deadlines {#level-deadlines}
 
+Here all all the deadlines for all (sub) modules:
 
 |---------|-----------------|--------------|----------------------|
 |         |                 | Mon          | Wed                  |
@@ -135,6 +136,10 @@ Here below is an overview of all modules.
 | Week 20 | May 12 - 14     | 5.3          | 5.4                  |
 | Week 21 | May 19 - 21     | Exam!        | no class             |
 |---------|-----------------|--------------|----------------------|
+
+
+Deadlines are strict! You need to hand in your solutions before the deadline.
+But we realize that sometimes things might be out of your control (due to illness, for instance), so you get 4 passes. That means that you can submit something late 4 times or less.
 
 ## Grading {#grading}
 
