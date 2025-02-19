@@ -18,7 +18,7 @@ templates:
         calculation: passed && points || 0
         automatic:
             points: (correctness_score * 10).floor
-        auto_publish: true
+        auto_publish: false
         hide_calculated: false
         hide_subgrades: false
 
