@@ -97,11 +97,18 @@ grades:
       <<: *check
       deadline: 18/03/25 23:59
 
-    3_1-car: *auto
-    3_1-temperature: *auto
-
-    c-datastructures: *auto
-    c-shakespeare: *auto
+    3_1-car:
+      <<: *check
+      deadline: 31/03/25 23:59
+    3_1-temperature:
+      <<: *check
+      deadline: 7/04/25 23:59
+    c-datastructures:
+      <<: *check
+      deadline: 7/04/25 23:59
+    c-shakespeare:
+      <<: *check
+      deadline: 7/04/25 23:59
 
 
 level_1_algorithms :

@@ -1,0 +1,8 @@
+name: 3_1-temperature
+files:
+    required:
+        - temperature.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: temperature
