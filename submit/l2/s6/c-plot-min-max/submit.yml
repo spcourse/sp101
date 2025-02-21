@@ -1,4 +1,0 @@
-name: c-plot_min_max
-files:
-    required:
-        - plot_mm.py
