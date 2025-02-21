@@ -1,4 +1,4 @@
-name: c-reformatting1
+name: c-reformatting
 files:
     required:
         - reformatting.py
