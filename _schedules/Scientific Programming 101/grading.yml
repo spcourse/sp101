@@ -88,13 +88,13 @@ grades:
       <<: *check-auto
       deadline: 18/03/25 23:59
     c-twitter:
-      <<: *auto
+      <<: *check
       deadline: 18/03/25 23:59
     c-reformatting:
       <<: *auto
       deadline: 18/03/25 23:59
     c-plot_min_max:
-      <<: *auto
+      <<: *check
       deadline: 18/03/25 23:59
 
     3_1-car: *auto
