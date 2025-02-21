@@ -132,11 +132,11 @@ L3 (Big Data):
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
         Datastructures [pair]: /shakespeare/c-datastructures
-        Submit [submit]: /submit/l3/s1/datastructures
+        Submit [submit]: /submit/l3/datastructures
     3.3.2 Challenge 2 (dl 7/04/25):
         Not required to pass, sneak peak of SP2:
         Shakespeare [pair]: /shakespeare/shakespeare-short
-        Submit [submit]: /submit/l3/s1/shakespeare
+        Submit [submit]: /submit/l3/shakespeare
 
 L4 (Monopoly):
     4.1 Animating in Python:
