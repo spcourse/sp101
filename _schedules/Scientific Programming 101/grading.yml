@@ -98,13 +98,13 @@ grades:
       deadline: 18/03/25 23:59
 
     3_1-car:
-      <<: *check
+      <<: *auto
       deadline: 31/03/25 23:59
     3_1-temperature:
       <<: *check
       deadline: 7/04/25 23:59
     c-datastructures:
-      <<: *check
+      <<: *auto
       deadline: 7/04/25 23:59
     c-shakespeare:
       <<: *check
