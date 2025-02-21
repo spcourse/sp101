@@ -1,4 +1,4 @@
-# Submit Goldbach
+# Submit Pyramid
 
 
 - Make sure that everything works correctly with checkpy before submitting.

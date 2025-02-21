@@ -65,7 +65,7 @@ L1 (Algorithms):
         Mario Pyramid [pair]: /algorithms/en/pyramid
         Submit Pyramid: /submit/l1/pyramid
         Conway’s Game of Life [pair] (very hard): /algorithms/en/conway
-        Submit Conway: submit/l1/c-conway
+        Submit Conway: submit/l1/conway
 
 
 L2 (Text Processing):
@@ -110,11 +110,11 @@ L2 (Text Processing):
     2.7 Challenges (dl 19/03/25):
         Not required to pass, but recommended to do at least one:
         Twitter [pair]: /text/en/tweets
-        Submit Twitter (21 jan): /submit/l2/twitter
+        Submit Twitter: /submit/l2/twitter
         Reformat [pair]: /text/en/reformatting
-        Submit Reformat (21 jan): /submit/l2/reformatting
+        Submit Reformat: /submit/l2/reformatting
         Plot Min Max [pair]: /plot/en/plot_mm
-        Submit Plot Min Max (21 jan): /submit/l2/plot-min-max
+        Submit Plot Min Max: /submit/l2/plot-min-max
 
 
 L3 (Big Data):
