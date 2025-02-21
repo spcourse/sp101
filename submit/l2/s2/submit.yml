@@ -1,0 +1,11 @@
+name: 2_2t-strings_1
+files:
+    required:
+        - vowels.py
+        - vowel_words.py
+        - text_statistics.py
+
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: vowels vowel_words text_statistics

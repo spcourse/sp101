@@ -1,0 +1,4 @@
+name: c-twitter
+files:
+    required:
+        - twitter.py

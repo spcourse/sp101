@@ -50,6 +50,7 @@ L1 (Algorithms):
         Calculate Change [individual]: /algorithms/en/greedy
         Submit [submit]: /submit/l1/s5
     1.6 Lists (dl 26/02/25):
+        Discuss this part with a teacher after submitting:
         Debugging [theory]: /python/en/debugging-basics
         Code in Style [theory]: /python/en/style
         Lists [theory]: /python/en/lists
@@ -64,11 +65,11 @@ L1 (Algorithms):
         Mario Pyramid [pair]: /algorithms/en/pyramid
         Submit Pyramid: /submit/l1/pyramid
         Conway’s Game of Life [pair] (very hard): /algorithms/en/conway
-        Submit Conway: submit/c-conway
+        Submit Conway: submit/l1/c-conway
 
 
 L2 (Text Processing):
-    2.1 Functions:
+    2.1 Functions (dl 10/03/25):
         Functions [theory]: /python/en/functions
         Squared [pair]: /shorts/squared
         Min [pair]: /shorts/min
@@ -76,42 +77,44 @@ L2 (Text Processing):
         Max [individual]: /shorts/max
         Max Index [individual]: /shorts/max_index
         Arange [individual]: /shorts/arange
-        Submit [submit]: /submit/mod2-1
-    2.2 Strings 1:
+        Submit [submit]: /submit/l2/s1
+    2.2 Strings 1 (dl 10/03/25):
         Strings [theory]: /python/en/strings
         Vowels [pair]: /shorts/vowels
         Vowel Words [pair]: /shorts/vowel_words
         Text Statistics [individual]: /text/en/statistics
-        Submit [submit]: /submit/mod2t-2
-    2.3 Strings 2:
+        Submit [submit]: /submit/l2/s2
+    2.3 Strings 2 (dl 12/03/25):
         Longest Word [pair]: /shorts/longest_word
         Word-by-Word [pair]: /text/en/words
         Resplit [pair]: /shorts/resplit
         Snake Case [individual]: /shorts/snake_case
         Align [individual]: /text/en/align
-        Submit [submit]: /submit/mod2t-3
-    2.4 Files:
+        Submit [submit]: /submit/l2/s3
+    2.4 Files (dl 12/03/25):
         Read Files [theory]: /python/en/file-io
         Practice with files [practice]: /python/en/files
         Alice [pair]: /shorts/alice
         Sentiment [individual]: /text/en/sentiment
-        Submit [submit]: /submit/mod2t-4
-    2.5 Plot:
+        Submit [submit]: /submit/l2/s4
+    2.5 Plot (dl 17/03/25):
         Import [theory]: /python/en/modules
         Plot [theory]: /python/en/plotting
         Plot [pair]: /plot/en/plot1
         Plot Min [individual]: /plot/en/plot2
-        Submit [submit]: /submit/mod2t-5
-    2.6 Style:
+        Submit [submit]: /submit/l2/s5
+    2.6 Style (dl 19/03/25):
+        Discuss this part with a teacher after submitting:
         Style [individual & discuss]: /style/text
-        Submit [submit]: /submit/mod2t-6
-    2.7 Challenges (not required to pass, but recommended to do at least one):
+        Submit [submit]: /submit/l2/s6
+    2.7 Challenges (dl 19/03/25):
+        Not required to pass, but recommended to do at least one:
         Twitter [pair]: /text/en/tweets
-        Submit Twitter (21 jan): /submit/c-twitter
+        Submit Twitter (21 jan): /submit/l2/twitter
         Reformat [pair]: /text/en/reformatting
-        Submit Reformat (21 jan): /submit/c-reformatting
+        Submit Reformat (21 jan): /submit/l2/reformatting
         Plot Min Max [pair]: /plot/en/plot_mm
-        Submit Plot Min Max (21 jan): /submit/c-plot-min-max
+        Submit Plot Min Max (21 jan): /submit/l2/plot-min-max
 
 
 L3 (Big Data):

@@ -1,0 +1,9 @@
+name: c-reformatting
+files:
+    required:
+        - reformatting.py
+
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: reformatting

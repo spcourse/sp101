@@ -69,16 +69,33 @@ grades:
       <<: *auto
       deadline: 26/02/25 23:59
 
-    2_1-fun: *auto
-    2_2t-strings_1: *auto
-    2_3t-strings_2: *auto
-    2_4t-files: *auto
-    2_5t-plot: *auto
-    2_6t-style: *check-auto
-
-    c-twitter: *auto
-    c-reformatting: *auto
-    c-plot_min_max: *auto
+    2_1-fun:
+      <<: *auto
+      deadline: 10/03/25 23:59
+    2_2t-strings_1:
+      <<: *auto
+      deadline: 10/03/25 23:59
+    2_3t-strings_2:
+      <<: *auto
+      deadline: 12/03/25 23:59
+    2_4t-files:
+      <<: *auto
+      deadline: 12/03/25 23:59
+    2_5t-plot:
+      <<: *auto
+      deadline: 17/03/25 23:59
+    2_6t-style:
+      <<: *check-auto
+      deadline: 18/03/25 23:59
+    c-twitter:
+      <<: *auto
+      deadline: 18/03/25 23:59
+    c-reformatting:
+      <<: *auto
+      deadline: 18/03/25 23:59
+    c-plot_min_max:
+      <<: *auto
+      deadline: 18/03/25 23:59
 
     3_1-car: *auto
     3_1-temperature: *auto
