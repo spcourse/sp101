@@ -86,16 +86,16 @@ grades:
       deadline: 17/03/25 23:59
     2_6t-style:
       <<: *check-auto
-      deadline: 18/03/25 23:59
+      deadline: 19/03/25 23:59
     c-twitter:
       <<: *check
-      deadline: 18/03/25 23:59
+      deadline: 19/03/25 23:59
     c-reformatting:
       <<: *auto
-      deadline: 18/03/25 23:59
+      deadline: 19/03/25 23:59
     c-plot_min_max:
       <<: *check
-      deadline: 18/03/25 23:59
+      deadline: 19/03/25 23:59
 
     3_1-car:
       <<: *auto
