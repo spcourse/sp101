@@ -137,7 +137,7 @@ grades:
       <<: *check
       deadline: 14/04/25 23:59
 
-level_1_algorithms :
+level_1_algorithms:
     show_progress: true
     submits:
         1_1-hello: 10
@@ -169,3 +169,20 @@ level_3_big_data:
         3_1-temperature: 10
         c-datastructures: 10
         c-shakespeare: 10
+
+
+level_4_monopoly:
+    show_progress: true
+    submits:
+        4_1-animation: 10
+        4_3-monopoly-2: 10
+        4_4-monopoly-3: 10
+
+level_2_shakespeare:
+    show_progress: true
+    submits:
+        5_1-datastructures: 10
+        5_2-complexity: 10
+        5_3-unique-word: 10
+        c-tf-idf: 10
+        c-generate-word-list: 10
