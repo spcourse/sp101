@@ -132,7 +132,7 @@ L3 (Big Data):
         Dictionaries [theory]: /python/en/dictionaries/use
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
-        Datastructures [pair]: /shakespeare/c-datastructures
+        Datastructures [pair]: /shakespeare/datastructures-practice
         Submit [submit]: /submit/l3/datastructures
     3.3.2 Challenge 2 (dl 7/04/25):
         Not required to pass, sneak peak of SP2:
@@ -168,7 +168,7 @@ L5 (Shakespeare):
         Dictionaries [theory]: /python/en/dictionaries/use
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
-        Use dictionaries and sets [individual]: /shakespeare/datastructures
+        Use dictionaries and sets [individual]: /shakespeare/datastructures-practice
         Submit [submit]: /submit/l5/s1
     5.2 Computational complexity (dl 12/05/25):
         Discuss this part together with the next:
