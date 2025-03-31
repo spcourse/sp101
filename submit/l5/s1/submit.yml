@@ -1,0 +1,8 @@
+name: 5_1-datastructures
+files:
+    required:
+        - datastructures.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: datastructures

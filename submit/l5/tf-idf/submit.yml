@@ -1,0 +1,4 @@
+name: c-tf-idf
+files:
+    required:
+        - tf-idf-classifier.py

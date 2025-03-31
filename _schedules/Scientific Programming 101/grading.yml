@@ -101,7 +101,7 @@ grades:
       <<: *auto
       deadline: 31/03/25 23:59
     3_1-temperature:
-      <<: *check
+      <<: *check-auto
       deadline: 7/04/25 23:59
     c-datastructures:
       <<: *auto
@@ -110,6 +110,32 @@ grades:
       <<: *check
       deadline: 7/04/25 23:59
 
+    4_1-animation:
+      <<: *auto
+      deadline: 9/04/25 23:59
+    4_3-monopoly-2:
+      <<: *check-auto
+      deadline: 14/04/25 23:59
+    4_4-monopoly-3:
+      <<: *auto
+      deadline: 14/04/25 23:59
+
+    5_1-datastructures:
+      <<: *auto
+      deadline: 7/05/25 23:59
+    5_2-complexity:
+      <<: *check
+      deadline: 12/04/25 23:59
+    5_3-unique-word:
+      <<: *check-auto
+      deadline: 14/04/25 23:59
+
+    c-tf-idf:
+      <<: *check
+      deadline: 14/04/25 23:59
+    c-generate-word-list:
+      <<: *check
+      deadline: 14/04/25 23:59
 
 level_1_algorithms :
     show_progress: true
