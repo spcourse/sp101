@@ -1,13 +1,9 @@
-name: 4_1
+name: 4_1-animation
 files:
     required:
-        - squared.py
-        - min.py
-        - fun_sum.py
-        - max.py
-        - max_index.py
-        - arange.py
+        - spiral.py
+        - student.py
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: squared min fun_sum max max_index arange
+    args: spiral student

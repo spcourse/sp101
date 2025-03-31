@@ -111,7 +111,7 @@ grades:
       deadline: 7/04/25 23:59
 
     4_1-animation:
-      <<: *auto
+      <<: *check
       deadline: 9/04/25 23:59
     4_3-monopoly-2:
       <<: *check-auto
