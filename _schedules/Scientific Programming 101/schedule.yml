@@ -123,6 +123,7 @@ L3 (Big Data):
         Car Ride [pair]: /bigdata/en/car
         Submit [submit]: /submit/l3/s1
     3.2 Temperature (dl 7/04/25):
+        Discuss this part with a teacher after submitting:
         More about Functions [theory]: /python/en/functions3
         Temperature [individual & discuss]: /bigdata/en/temperatures
         Submit [submit]: /submit/l3/s2
@@ -140,6 +141,7 @@ L3 (Big Data):
 
 L4 (Monopoly):
     4.1 Animating in Python (dl 9/04/25):
+        Show the plots to a teacher after submitting:
         Learn how to create animated graphics [theory]: /animation/en/explanation
         Spiral [pair]: /animation/en/dot
         Buzzed student [pair]: /animation/en/student
@@ -151,6 +153,7 @@ L4 (Monopoly):
         Main function [theory]: /python/en/main_function
         Moving around [pair]: /monopoly/en/moving-around
     4.3 Monopoly 2 (dl 14/04/25):
+        Discuss this part with a teacher after submitting:
         Default arguments [theory]: /python/en/default-arguments
         Money [individual]: /monopoly/en/money
         Submit [submit]: /submit/l4/s3
@@ -169,6 +172,7 @@ L5 (Shakespeare):
         Use dictionaries and sets [individual]: /shakespeare/datastructures
         Submit [submit]: /submit/l5/s1
     5.2 Computational complexity (dl 12/05/25):
+        Discuss this part together with the next:
         Complexity [theory]: /python/en/efficiency
         Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
         Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
