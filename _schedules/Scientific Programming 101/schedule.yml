@@ -191,4 +191,5 @@ L5 (Shakespeare):
         Generate your own word lists: /shakespeare/generate-word-list
         Submit [submit]: /submit/l5/generate-word-list
 
-Exam:
+Practice exam:
+    Practice exam: /exams/practice-exam
