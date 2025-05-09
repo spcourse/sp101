@@ -137,6 +137,8 @@ grades:
       <<: *check
       deadline: 14/05/25 23:59
 
+    practice_exam: *testt
+
 level_1_algorithms:
     show_progress: true
     submits:
@@ -186,3 +188,8 @@ level_2_shakespeare:
         5_3-unique-word: 10
         c-tf-idf: 10
         c-generate-word-list: 10
+
+practice:
+    show_progress: false
+    submits:
+        practice_exam: 10
