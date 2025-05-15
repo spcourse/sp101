@@ -11,7 +11,7 @@ check:
     args: sp101_exam1
 files:
     required:
-        'sp101_exam0.py': |
+        'sp101_exam1.py': |
             # Scientific Programming 1, practice exam
             # Name: ...
 
