@@ -138,6 +138,8 @@ grades:
       deadline: 14/05/25 23:59
 
     practice_exam: *testt
+    exam1: *testt
+    exam2: *testt
 
 level_1_algorithms:
     show_progress: true
@@ -193,3 +195,8 @@ practice:
     show_progress: false
     submits:
         practice_exam: 10
+
+exam1:
+    show_progress: true
+    submits:
+        exam1: 1
