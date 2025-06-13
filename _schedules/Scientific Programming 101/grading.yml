@@ -200,3 +200,8 @@ exam1:
     show_progress: true
     submits:
         exam1: 1
+
+
+calculation:
+    final1:
+      exam1: 1
