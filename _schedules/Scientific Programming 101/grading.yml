@@ -201,7 +201,13 @@ exam1:
     submits:
         exam1: 1
 
+exam2:
+    show_progress: true
+    submits:
+        exam2: 1
 
 calculation:
     final1:
       exam1: 1
+    final2:
+      exam2: 1
