@@ -1,5 +1,5 @@
 # Scientific Programming 101
-**Spring 2024/2025**
+**Spring 2025/2026**
 
 ## General info {#general}
 

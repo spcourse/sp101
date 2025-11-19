@@ -1,18 +1,10 @@
 # Scientific Programming 101
 
-**2024/2025**
+**2025/2026**
 
 ## Team
 
 <table>
-  <tr><td width = "25%"><img src = "https://github.com/spcourse/sp101/raw/2024/team/loes.jpg" style="max-width:90px"><br>Loes </td><td>Loes did a Liberal Arts Bachelor’s with a major in Mathematics at University College Utrecht and is currently in the second year of the Master’s Computational Science. She enjoys making cool projects on her computer and is very excited to support you in doing the same coming semester!
-  </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/sp101/raw/2024/team/marit.jpg" style="max-width:90px" width = "150"><br>Marit </td><td> Marit is a fourth-year Beta Gamma student majoring in Artificial Intelligence. She's currently preparing for a master's in Information Studies. Outside of studying, she loves making her own clothes, reading, and training for her first running race.
-  </td></tr>
-  <!-- <tr><td><img src = "https://github.com/spcourse/sp101/raw/2025/team/steph.jpg" style="max-width:90px" width = "150"><br>Steph </td><td>
-  </td></tr> -->
-  <tr><td><img src = "https://github.com/spcourse/sp101/raw/2024/team/puck.jpg" style="max-width:90px" width = "150"><br>Puck </td><td> Puck has a Bachelor’s degree in Physics and then completed a Master’s degree in Mathematics at Utrecht University. She is currently a Junior Lecturer for the Scientific Programming minor at the University of Amsterdam. Puck loves puzzles and tough questions. If you have a fun challenge to think about, she’ll happily join in—even if it’s not related to programming.
-  </td></tr>
   <tr><td><img src = "https://github.com/spcourse/sp101/raw/2024/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon </td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
 </table>
 
@@ -79,8 +71,8 @@ Your entry to the course is the sidebar, where you can leaf through all modules 
 |-------|-------------|
 | 2     | Lecture     |
 | 2     | Exam        |
-| 32    | Seminars    |
-| 132   | Self-study  |
+| 28    | Seminars    |
+| 136   | Self-study  |
 | 168   | Total       |
 
 
@@ -89,19 +81,9 @@ Tutorials and a lecture
 ### Attendance
 Additional requirements for this course:
 
-Students may be absent 4 out of 16 seminars (werkcollege)
+Students may be absent 4 out of 14 seminars (werkcollege)
 
 ### Programming modules {#programming-modules}
-
-You're going to learn programming through a number of programming modules. Each module consist of:
-
-- Theory: Explanations both written and in the form of video's.
-- Pair: Assignments that you can do together with other students.
-- Individual: Assignments that you should do individually (but with our help, of course).
-
-The modules are grouped into levels, you have to make one module per level. For some levels you have the choice between two different modules. When there is such a choice, you will learn the same programming concepts, but often in different thematic context (i.e. different scientific fields).
-
-Here below is an overview of all modules.
 
 **ALGORITHMS**. Learn to think like a computer. Things that we intuitively know how to do, like drawing a pyramid or computing change for a payment, is hard to get a computer to do right. In this module you’ll learn how to break down such intuitive problems into steps that even a computer can understand.
 
@@ -122,19 +104,19 @@ Here all all the deadlines for all (sub) modules:
 |---------|-----------------|--------------|----------------------|
 |         |                 | Mon          | Wed                  |
 |---------|-----------------|--------------|----------------------|
-| Week 8  | Feb 17 - 19     |              | 1.1 - 1.3            |
-| Week 9  | Feb 24 - 26     | 1.4 - 1.5    | 1.6, (1.7)           |
+| Week 8  | Feb 16 / 18     |              | 1.1 - 1.3            |
+| Week 9  | Feb 23 / 25     | 1.4 - 1.5    | 1.6, (1.7)           |
 |||||
-| Week 11 | Mar 10 - 12     | 2.1 - 2.2    | 2.3 - 2.4            |
-| Week 12 | Mar 17 - 19     | 2.5          | 2.6, (2.7)           |
+| Week 11 | Mar 9 / 11      | 2.1 - 2.2    | 2.3 - 2.4            |
+| Week 12 | Mar 19          |              | 2.5, 2.6, (2.7)      |
 |||||
-| Week 14 | Mar 31 - Apr 2  | 3.1          | no deadline          |
-| Week 15 | Apr 7 - 9       | 3.2, (3.3)   | 4.1 - 4.2            |
-| Week 16 | Apr 14 - 16     | 4.3          | 4.4                  |
+| Week 14 | Mar 30 / Apr 1  | 3.1          | 3.2, 3.3,            |
+| Week 15 | Apr 8           |              | 3.4, 3.5, (3.6)      |
+| Week 16 | Apr 13 / 15     | 4.1, 4.2     | 4.3, 4.4             |
 |||||
-| Week 19 | May 5 - 7       | no class     | 5.1                  |
-| Week 20 | May 12 - 14     | 5.2          | 5.3, (5.4)           |
-| Week 21 | May 19 - 21     | Exam!        | no class             |
+| Week 19 | May 6           |              | 5.1                  |
+| Week 20 | May 11 / 13     | 5.2          | 5.3, (5.4)           |
+| Week 21 | May 18          | Exam!        |                      |
 |---------|-----------------|--------------|----------------------|
 
 

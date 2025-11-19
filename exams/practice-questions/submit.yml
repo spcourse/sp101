@@ -1,8 +1,0 @@
-name: practice_exam_1
-files:
-    required:
-        - sp101_exam_questions.py
-check:
-    tool: checkpy
-    repo: spcourse/exam-tests
-    args: sp101_exam_questions
