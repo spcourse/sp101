@@ -165,11 +165,14 @@ l5:
         c-generate-word-list: 1
 
 
-exams:
+exams1:
     show_progress: true
-    small_block_overview: false
     submits:
         exam1: 1
+
+exams1:
+    show_progress: true
+    submits:
         exam2: 1
 
 ########### FINAL GRADES ###########
