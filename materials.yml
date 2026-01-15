@@ -42,16 +42,4 @@ shakespeare:
     remote: https://github.com/spcourse/shakespeare.git
     branch: main
 
-# M6
-survival:
-    remote: https://github.com/spcourse/survival.git
-    branch: main
 
-pandas:
-    remote: https://github.com/spcourse/pandas.git
-    branch: main
-
-# Bonus
-populations-oo:
-    remote: https://github.com/spcourse/populations-oo.git
-    branch: main

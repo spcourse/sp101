@@ -1,0 +1,11 @@
+name: 1_3a
+files:
+    required:
+        - less_than.py
+        - first_year.py
+        - first_or_last_year.py
+        - leap_year.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: less_than first_year first_or_last_year leap_year

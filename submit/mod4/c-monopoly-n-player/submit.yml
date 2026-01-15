@@ -1,0 +1,4 @@
+name: c-monopoly-n-player
+files:
+    required:
+        - monopoly-nplayer.py

@@ -1,0 +1,4 @@
+name: c-weather7
+files:
+    required:
+        - weather7.py

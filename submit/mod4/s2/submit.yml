@@ -1,0 +1,8 @@
+name: 4_2m
+files:
+    required:
+        - monopoly_realistic.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: monopoly_realistic

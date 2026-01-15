@@ -1,0 +1,191 @@
+templates:
+    1: &auto
+        type: float
+        subgrades:
+            points: integer
+        calculation: (points >= 9) && points || 0
+        automatic:
+            points: (correctness_score * 10).floor
+        auto_publish: true
+        hide_calculated: false
+        hide_subgrades: false
+
+    2: &check
+        type: pass
+        subgrades:
+            passed: boolean
+        calculation: passed
+        auto_publish: true
+        hide_calculated: true
+        hide_subgrades: false
+
+    3: &testt
+        type: pass
+        subgrades:
+            passed: boolean
+            checkpy: float
+        automatic:
+            checkpy: correctness_score * 10
+        calculation: passed
+        auto_publish: false
+        hide_calculated: true
+        hide_subgrades: false
+
+
+grades:
+    m1-passed: *check
+    m2-passed: *check
+    m3-passed: *check
+    m4-passed: *check
+    m5-passed: *check
+
+    1_1a: *auto
+    1_2a: *auto
+    1_3a: *auto
+    1_4a: *auto
+    1_5a: *auto
+    1_6a: *auto
+    c-pyramid: *auto
+    c-conway: *check
+
+    2_1t: *auto
+    2_2t: *auto
+    2_3t: *auto
+    2_4t: *auto
+    2_5t: *auto
+    2_6t: *auto
+    c-twitter: *auto
+    c-reformatting: *auto
+    c-plot_min_max: *check
+
+    3_1b: *auto
+    3_2b: *auto
+    3_3b: *auto
+    3_4b: *auto
+    3_5b: *auto
+    c-weather5: *auto
+    c-weather6: *check
+    c-weather7: *check
+
+    4_1m: *auto
+    4_2m: *auto
+    c-animation: *check
+    c-monopoly-n-player: *check
+
+    5_1s:
+      <<: *auto
+      # deadline: 7/05/25 23:59
+    5_2s:
+      <<: *check
+      # deadline: 12/05/25 23:59
+    5_3s:
+      <<: *check-auto
+      # deadline: 14/05/25 23:59
+    c-tf-idf:
+      <<: *check
+      # deadline: 14/05/25 23:59
+    c-generate-word-list:
+      <<: *check
+      # deadline: 14/05/25 23:59
+
+    practice_exam: *testt
+    exam1: *testt
+    exam2: *testt
+
+
+########### SP 1 ###########
+
+checked_modules:
+    show_progress: true
+    submits:
+        m1-passed: 1
+        m2-passed: 1
+        m3-passed: 1
+        m4-passed: 1
+        m5-passed: 1
+
+
+l1:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        1_1a: 1
+        1_2a: 1
+        1_3a: 1
+        1_4a: 1
+        1_5a: 1
+        1_6a: 1
+        c-pyramid: 1
+        c-conway: 1
+
+l2:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        2_1t: 1
+        2_2t: 1
+        2_3t: 1
+        2_4t: 1
+        2_5t: 1
+        2_6t: 1
+        c-twitter: 1
+        c-reformatting: 1
+        c-plot_min_max: 1
+
+
+l3:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        3_1b: 1
+        3_2b: 1
+        3_3b: 1
+        3_4b: 1
+        3_5b: 1
+        c-weather6: 1
+        c-weather7: 1
+
+l4:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        4_1m: 1
+        4_2m: 1
+        c-animation: 1
+        c-monopoly-n-player: 1
+
+l5:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        5_1m: 1
+        5_2m: 1
+        5_3m: 1
+        c-tf-idf: 1
+        c-generate-word-list: 1
+
+
+exams:
+    show_progress: true
+    small_block_overview: false
+    submits:
+        exam1: 1
+        exam2: 1
+
+########### FINAL GRADES ###########
+
+calculation:
+    final1:
+        m1-passed: 1
+        m2-passed: 1
+        m3-passed: 1
+        m4-passed: 1
+        m5-passed: 1
+        exam1: 1
+    final2:
+        m1-passed: 1
+        m2-passed: 1
+        m3-passed: 1
+        m4-passed: 1
+        m5-passed: 1
+        exam2: 1

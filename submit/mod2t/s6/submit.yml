@@ -1,0 +1,10 @@
+name: 2_6t
+files:
+    required:
+        - align.py
+        - plot2.py
+
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: align plot2

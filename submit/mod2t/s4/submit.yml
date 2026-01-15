@@ -1,0 +1,10 @@
+name: 2_4t
+files:
+    required:
+        - alice.py
+        - sentiment.py
+
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: alice sentiment

@@ -1,0 +1,13 @@
+name: 1_4a
+files:
+    required:
+        - between.py
+        - buzz.py
+        - sum.py
+        - leap_years.py
+        - newton.py
+        - repeat.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: between buzz sum leap_years newton repeat

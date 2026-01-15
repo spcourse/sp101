@@ -1,0 +1,13 @@
+name: 2_1t
+files:
+    required:
+        - squared.py
+        - min.py
+        - fun_sum.py
+        - max.py
+        - max_index.py
+        - arange.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: squared min fun_sum max max_index arange

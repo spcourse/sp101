@@ -1,0 +1,8 @@
+name: c-weather5
+files:
+    required:
+        - weather5.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: weather5

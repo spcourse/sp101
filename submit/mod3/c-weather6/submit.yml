@@ -1,0 +1,4 @@
+name: c-weather6
+files:
+    required:
+        - weather6.py

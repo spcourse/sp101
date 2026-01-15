@@ -1,0 +1,8 @@
+name: 4_1m
+files:
+    required:
+        - monopoly.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: monopoly

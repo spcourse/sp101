@@ -1,0 +1,10 @@
+name: 1_2a
+files:
+    required:
+        - whiz.py
+        - oranges.py
+
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: whiz oranges
