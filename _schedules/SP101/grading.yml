@@ -79,7 +79,7 @@ grades:
       <<: *check
       # deadline: 12/05/25 23:59
     5_3s:
-      <<: *check-auto
+      <<: *auto
       # deadline: 14/05/25 23:59
     c-tf-idf:
       <<: *check
