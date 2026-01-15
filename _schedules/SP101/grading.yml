@@ -165,12 +165,12 @@ l5:
         c-generate-word-list: 1
 
 
-exams1:
+exam1:
     show_progress: true
     submits:
         exam1: 1
 
-exams1:
+exam2:
     show_progress: true
     submits:
         exam2: 1
