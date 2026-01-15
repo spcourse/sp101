@@ -176,16 +176,8 @@ exams:
 
 calculation:
     final1:
-        m1-passed: 1
-        m2-passed: 1
-        m3-passed: 1
-        m4-passed: 1
-        m5-passed: 1
+        checked_modules: 1
         exam1: 1
     final2:
-        m1-passed: 1
-        m2-passed: 1
-        m3-passed: 1
-        m4-passed: 1
-        m5-passed: 1
+        checked_modules: 1
         exam2: 1
