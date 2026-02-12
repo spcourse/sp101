@@ -19,19 +19,19 @@ Welcome:
 L1 (Algorithms):
     1.1 Output:
         Hello, world [pair]: /shorts/hello
-        Submit [dl]: /submit/mod1a/s1
+        Submit [18 Feb]: /submit/mod1a/s1
     1.2 Input and Calculations:
         Basics [theory]: /python/en/basics
         Number Whiz [pair]: /numbers/en/whiz
         Divide [individual]: /shorts/oranges
-        Submit [dl]: /submit/mod1a/s2
+        Submit [18 Feb]: /submit/mod1a/s2
     1.3 If-then:
         Algorithms [theory]: /python/en/algorithms
         Less Than [pair]: /shorts/less_than
         First Year [pair]: /shorts/first_year
         First or Last Year [individual]: /shorts/first_or_last_year
         Leap Year [individual]: /shorts/leap_year
-        Submit [dl]: /submit/mod1a/s3
+        Submit [18 Feb]: /submit/mod1a/s3
     1.4 Loops 1 (For):
         For Loops [theory]: /python/en/loops/for
         Between [pair]: /shorts/between
@@ -40,7 +40,7 @@ L1 (Algorithms):
         Leap Years [pair]: /shorts/leap_years
         Newton [pair]: /shorts/newton
         Repeat String [individual]: /shorts/repeat
-        Submit [dl]: /submit/mod1a/s4
+        Submit [23 Feb]: /submit/mod1a/s4
     1.5 Loops 2 (While):
         While Loops [theory]: /python/en/loops/while
         Loops examples [theory]: /python/en/loops/practical-uses
@@ -49,7 +49,7 @@ L1 (Algorithms):
         Sum Until [pair]: /shorts/sum_until
         Max Until [pair]: /shorts/max_until
         Calculate Change [individual]: /algorithms/en/greedy
-        Submit [dl]: /submit/mod1a/s5
+        Submit [23 Feb]: /submit/mod1a/s5
     1.6 Lists:
         Debugging [theory]: /python/en/debugging-basics
         Code in Style [theory]: /python/en/style
@@ -59,16 +59,16 @@ L1 (Algorithms):
         Average [pair]: /shorts/average
         Squares [individual]: /shorts/squares
         Collect Change [individual]: /algorithms/en/collect
-        Submit [dl]: /submit/mod1a/s6
+        Submit [25 Feb]: /submit/mod1a/s6
     Make sure to discuss your solutions in person after completing this level!:
     1.7 Challenge 1:
         Not required to pass, but recommended to at least try:
         Mario Pyramid [pair]: /algorithms/en/pyramid
-        Submit Pyramid: /submit/mod1a/c-pyramid
+        Submit Pyramid [6 Mar]: /submit/mod1a/c-pyramid
     1.8 Challenge 2:
         Not required to pass:
         Conway’s Game of Life [pair]: /algorithms/en/conway
-        Submit Conway: /submit/mod1a/c-conway
+        Submit Conway [6 Mar]: /submit/mod1a/c-conway
 
 L2 (Text Processing):
     2.1 Functions:
@@ -79,48 +79,48 @@ L2 (Text Processing):
         Max [individual]: /shorts/max
         Max Index [individual]: /shorts/max_index
         Arange [individual]: /shorts/arange
-        Submit [dl]: /submit/mod2t/s1
+        Submit [9 Mar]: /submit/mod2t/s1
     2.2 Strings 1:
         Strings [theory]: /python/en/strings
         Vowels [pair]: /shorts/vowels
         Vowel Words [pair]: /shorts/vowel_words
         Text Statistics [individual]: /text/en/statistics
-        Submit [dl]: /submit/mod2t/s2
+        Submit [9 Mar]: /submit/mod2t/s2
     2.3 Strings 2:
         Longest Word [pair]: /shorts/longest_word
         Word-by-Word [pair]: /text/en/words
         Resplit [pair]: /shorts/resplit
         Snake Case [individual]: /shorts/snake_case
         Align [individual]: /text/en/align
-        Submit [dl]: /submit/mod2t/s3
+        Submit [11 Mar]: /submit/mod2t/s3
     2.4 Files:
         Read Files [theory]: /python/en/file-io
         Practice with files [practice]: /python/en/files
         Alice [pair]: /shorts/alice
         Sentiment [individual]: /text/en/sentiment
-        Submit [dl]: /submit/mod2t/s4
+        Submit [11 Mar]: /submit/mod2t/s4
     2.5 Plot:
         Import [theory]: /python/en/modules
         Plot [theory]: /python/en/plotting
         Plot [pair]: /plot/en/plot1
         Plot Min [individual]: /plot/en/plot2
-        Submit [dl]: /submit/mod2t/s5
+        Submit [18 MAr]: /submit/mod2t/s5
     2.6 Style:
         Style [individual]: /style/text
-        Submit [dl]: /submit/mod2t/s6
+        Submit [18 MAr]: /submit/mod2t/s6
     Make sure to discuss your solutions in person after completing this level!:
     2.7 Challenge 1:
         Challenges are optional:
         Twitter [pair]: /text/en/tweets
-        Submit Twitter: /submit/mod2t/c-twitter
+        Submit Twitter [27 Mar]: /submit/mod2t/c-twitter
     2.8 Challenge 2:
         Not required to pass:
         Reformat [pair]: /text/en/reformatting
-        Submit Reformat: /submit/mod2t/c-reformatting
+        Submit Reformat [27 Mar]: /submit/mod2t/c-reformatting
     2.9 Challenge 3:
         Not required to pass:
         Plot Min Max [pair]: /plot/en/plot_mm
-        Submit Plot Min Max: /submit/mod2t/c-plot-min-max
+        Submit Plot Min Max [27 Mar]: /submit/mod2t/c-plot-min-max
 
 L3 - Big Data:
     3.1 Car - 20pt.:
