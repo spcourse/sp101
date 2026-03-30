@@ -1,8 +1,8 @@
 name: 3_2b
 files:
     required:
-        - temperature.py
+        - weather1.py
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: temperature
+    args: weather1

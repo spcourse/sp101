@@ -126,37 +126,37 @@ L3 - Big Data:
     3.1 Car - 20pt.:
         Read Files (repeated): /python/en/file-io
         "Car Ride": /bigdata/en/car
-        Submit [dl]: /submit/m3/s1
+        Submit [dl]: /submit/mod3/s1
     3.2 Weather 1 - 10pt.:
         More about Functions: /python/en/functions3
         "Reading the data": /bigdata/en/weather1
-        Submit [dl]: /submit/m3/s2
+        Submit [dl]: /submit/mod3/s2
     3.3 Weather 2 - 10pt.:
         "Extremes": /bigdata/en/weather2
-        Submit [dl]: /submit/m3/s3
+        Submit [dl]: /submit/mod3/s3
     3.4 Weather 3 - 10pt.:
         "Cold, colder, coldest": /bigdata/en/weather3
-        Submit [dl]: /submit/m3/s4
+        Submit [dl]: /submit/mod3/s4
     3.5 Weather 4 - 10pt.:
         "Plot summer and tropical days": /bigdata/en/weather4
-        Submit: /submit/m3/s5
+        Submit: /submit/mod3/s5
         "Aftekenen!":
     3.6a Challenge 1 - 10pt:
         Challenges are optional:
         "Heat wave": /bigdata/en/weather5
-        Submit Weather 5 [dl]: /submit/m3/c31-weather5
+        Submit Weather 5 [dl]: /submit/mod3/c31-weather5
     3.6b Challenge 2 - 10pt:
         Dictionaries: /python/en/dictionaries/use
         Tuples: /python/en/tuples
         Sets: /python/en/sets
         "Datastructures 1": /python/en/datastructures-practice/part1
-        Submit Datastructures 1 [dl]: /submit/m3/c32-datastructures1
+        Submit Datastructures 1 [dl]: /submit/mod3/c32-datastructures1
     3.6c Challenge 3 - 10pt:
         Complexity part 1: /python/en/complexity-intro
         Complexity part 2: /python/en/complexity-calculation
         Complexity of dictionaries: /python/en/dictionaries/complexity
         "Datastructures 2": /python/en/datastructures-practice/part2
-        Submit Datastructures 2 [dl]: /submit/m3/c33-datastructures2
+        Submit Datastructures 2 [dl]: /submit/mod3/c33-datastructures2
 
 
 L4 (Monopoly):
