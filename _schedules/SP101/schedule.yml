@@ -141,23 +141,15 @@ L3 - Big Data:
         "Plot summer and tropical days": /bigdata/en/weather4
         Submit [8 Apr]: /submit/mod3/s5
     Make sure to discuss your solutions in person after completing this level!:
-    3.6a Challenge 1 - 10pt:
-        Challenges are optional:
-        "Heat wave": /bigdata/en/weather5
-        Submit Weather 5 [10 Apr]: /submit/mod3/c31-weather5
-    3.6b Challenge 2 - 10pt:
-        Dictionaries: /python/en/dictionaries/use
-        Tuples: /python/en/tuples
-        Sets: /python/en/sets
-        "Datastructures 1": /python/en/datastructures-practice/part1
-        Submit Datastructures 1 [10 Apr]: /submit/mod3/c32-datastructures1
-    3.6c Challenge 3 - 10pt:
-        Complexity part 1: /python/en/complexity-intro
-        Complexity part 2: /python/en/complexity-calculation
-        Complexity of dictionaries: /python/en/dictionaries/complexity
-        "Datastructures 2": /python/en/datastructures-practice/part2
-        Submit Datastructures 2 [10 Apr]: /submit/mod3/c33-datastructures2
-
+    3.6 Challenge 1:
+        Heat wave [assignment]: /bigdata/en/weather5
+        Submit [10 Apr]: /submit/mod3/c-weather5
+    3.6 Challenge 2:
+        Decade trends, temperature and freezing [assignment]: /bigdata/en/weather6
+        Submit [10 Apr]: /submit/mod3/c-weather6
+    3.6 Challenge 3:
+        Decade trends, heat waves [assignment]: /bigdata/en/weather7
+        Submit [10 Apr]: /submit/mod3/c-weather7
 
 L4 (Monopoly):
     Scientific Programming 2 - Level 4 (Monopoly):
