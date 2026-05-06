@@ -112,7 +112,7 @@ Here all all the deadlines for all (sub) modules:
 | Week 15 | Apr 8           |              | 3.4, 3.5, (3.6)      |
 | Week 16 | Apr 13 / 15     |               | 4.1, 4.2 (Wed); 4.3, (4.4, 4.5) (Fri) |
 |||||
-| Week 19 | May 6           |              | 5.1                  |
+| Week 19 | May 6           |              | 5.1 (Fri)                 |
 | Week 20 | May 11 / 13     | 5.2          | 5.3, (5.4)           |
 | Week 21 | May 18          | Exam!        |                      |
 |---------|-----------------|--------------|----------------------|

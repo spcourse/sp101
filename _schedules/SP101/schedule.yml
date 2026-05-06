@@ -185,24 +185,24 @@ L5 (Shakespeare):
     Sets [theory]: /python/en/sets
     List slicing and indexing [theory]: /python/en/slicing
     Use dictionaries and sets - part 1 [assignment]: /python/en/datastructures-practice/part1
-    Submit [submit]: /submit/mod5/s1
+    Submit [8 May]: /submit/mod5/s1
   5.2 Computational complexity (dl 12/05/25):
     Discuss this part together with the next:
     Complexity [theory]: /python/en/efficiency
     Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
     Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
     Complexity questions [individual]: /shakespeare/complexity-questions
-    Submit [submit]: /submit/mod5/s2
+    Submit [11 May]: /submit/mod5/s2
   5.3 Unique word classifier (dl 14/05/25):
     Discuss this part with a teacher after submitting:
     Optimize [individual]: /shakespeare/optimize-unique-words
     Extend [individual]: /shakespeare/extend-unique-words
-    Submit [submit]: /submit/mod5/s3
+    Submit [13 May]: /submit/mod5/s3
   5.4.1 Challenge 1 (dl 14/05/25):
     Not required to pass:
     Create a TF-IDF classifier [individual]: /shakespeare/tf-idf-classifier
-    Submit [submit]: /submit/mod5/tf-idf
+    Submit [15 May]: /submit/mod5/tf-idf
   5.4.2 Challenge 2 (dl 14/05/25):
     Not required to pass:
     Generate your own word lists: /shakespeare/generate-word-list
-    Submit [submit]: /submit/mod5/generate-word-list
+    Submit [15 May]: /submit/mod5/generate-word-list
