@@ -1,4 +1,5 @@
 # Practice exam
 
 - Download the practice exam here: [download](practice-exam.pdf)
-- Make the practice exam in the exam editor. You will use this also for the actual exam. 
+- Make the practice exam in the official exam editor: <br>
+[editor](exam_button:practice_exam)
