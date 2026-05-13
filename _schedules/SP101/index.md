@@ -138,7 +138,7 @@ You may not re-submit (variations of) solutions that you wrote for any other cou
 
 ### Final exam
 
-The final exam is (on campus) programming exam in a controlled setting. This will take about 3 hours. It contains a couple of small programming assignments. You'll pass the exam when your answers are sufficiently correct.
+The final exam is (on campus) programming exam in a controlled setting. This will take about 2 hours. It contains a couple of small programming assignments. You'll pass the exam when your answers are sufficiently correct.
 
 ## Doing your own work {#plagiarism}
 
