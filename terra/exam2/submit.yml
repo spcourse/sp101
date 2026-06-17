@@ -3,19 +3,18 @@ exam: true
 buttons:
     "Checkpy": |
         from checkpy.interactive import testOffline
-        testOffline("sp101_exam", "/home/pyodide", multiprocessing=False, silentMode=False)
+        testOffline("sp101_exam2", "/home/pyodide", multiprocessing=False, silentMode=False)
         print("\nend tests!")
 check:
     tool: checkpy
     repo: spcourse/quizes
-    args: sp101_exam
+    args: sp101_exam2
 files:
     required:
-        "sp101_exam.py": |
-            # Scientific Programming 1, practice exam
-            # Name: ...
+        "sp101_exam2.py": |
+            # Scientific Programming 101
 
-            print("Welcome to the practice exam!")
+            print("Welcome to the exam!")
 
         "temp.py": |
             # This file will be ignored by us. You can use this as a canvas
